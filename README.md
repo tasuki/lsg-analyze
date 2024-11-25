@@ -1,4 +1,6 @@
-# A tihng...
+# Letnia Szkoła Go -- the data
+
+Lookin' for [insights](notebooks/Insights.ipynb)?
 
 ## Setup
 
