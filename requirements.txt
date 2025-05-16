@@ -1,6 +1,7 @@
 # jupyter
 jupyterlab==4.3.4
 jupyterlab-vim==4.1.4
+nbdime==4.0.2
 
 # fetch
 requests==2.31.0
