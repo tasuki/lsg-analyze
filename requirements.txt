@@ -6,7 +6,7 @@ nbdime==4.0.2
 # fetch
 requests==2.31.0
 beautifulsoup4==4.12.3
-# lxml==5.1.0
+lxml==6.0.0
 
 # analyze
 matplotlib==3.8.3
