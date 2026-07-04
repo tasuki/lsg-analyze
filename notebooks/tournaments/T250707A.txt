@@ -1,0 +1,48 @@
+; TC[T250707A]
+; CL[A]
+; EV[Summer Go School Marathon - 1st week]
+; PC[PL, Przystanek Alaska]
+; DT[2025-07-07,2025-07-11]
+; HA[h9]
+; KM[6.5]
+; TM[75]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Majka Marcin           4d PL  Wroc  26   5    26   116  591  5+/b    8+/b    2+/w    3+/w    4+/w     |14713413
+ 2 Kay Andrew             5d UK  Swan  25   4    25   119  581= 6+/b    3+/w    1-/b    4+/w    7+/b     |14613720
+ 3 Szychowiak Marianna    2d PL  Bydg  24   3    24   119  571  4+/w    2-/b    10+/w   1-/b    5+/w     |16725709
+ 4 Fraczak Pawel          1d PL  Wars  23   2    23   121  582  3-/b    5+/w    7+/w    2-/b    1-/b     |14650768
+ 5 Drzystek Andrzej       1d NL  xxxx  23   2    23   117  585= 1-/w    4-/b    8+/b    6+/w    3-/b     |15350973
+ 6 Kielczykowski Adrian   1d PL  Wars  23   2    23   114= 565  2-/w    7-/b    9+/w    5-/b    8+/w     |19725937
+ 7 Barcicki Tymoteusz     1k PL  Pozn  23   3    23   111  570= 12+/w   6+/w    4-/b    8+/b    2-/w     |18737928
+ 8 Siwy Adam              1k PL  Szcz  21   1    21   115  555  11+/b   1-/w    5-/w    7-/w    6-/b     |19725508
+ 9 Stieglitz Robin        1k FR  38Gr  22=  1    21   103  511  0=      0=      6-/b    0=      11+/w    |17813268
+10 Krause Karol           2k PL  Bydg  22   2    21   98   503  14+/b   12+/w   3-/b    0=      0=       |15725721
+11 Flach Michal           4k PL  Krak  20   3    20   96=  502  8-/w    15+/b   12+/b   14+/w   9-/b     |20401029
+12 Blumberg Klaus         3k DE  BS    19   1    19   101  479  7-/b    10-/b   11-/w   15+/w   13-/b    |10486124
+13 Szymanski Konrad       6k PL  Szcz  19   4    19   83=  438= 17+/b   14+/w   15-/w   16+/b   12+/w    |20625605
+14 Bugaj Robert           6k PL  Wars  17   2    17   93   446= 10-/w   13-/b   16+/w   11-/b   15+/b    |13437017
+15 Kowalski Marek         6k PL  Pozn  17   2    17   90   452= 16+/w   11-/w   13+/b   12-/b   14-/w    |20174517
+16 Klimczak Mariusz       8k PL  Bydg  15   2    15   78=  396= 15-/b   17+/w   14-/b   13-/w   19+/b    |16586614
+17 Gonzalez Iago          7k ES  LDNB  15=  0    14   76   372  13-/w   16-/b   0=      0=      0=       |20162362
+18 Ligienza Jakub        15k PL  Wroc  11   5    11   40   218  32+/w   23+/w   19+/w   22+/b   20+/b    |20401931
+19 Szopa Ryszard         13k PL  Wars  10   2    10   54   254= 22+/w   21+/w   18-/b   23-/b   16-/w    |20125457
+20 Szopa Rysio           14k PL  Wars  10   3    10   44   197  25+/w   22+/b   24+/w   21-/w   18-/w    |20137458
+21 Barcicki Kacper       14k PL  Pozn  10   3    10   43   222  26+/w   19-/b   22+/w   20+/b   23-/w    |19850039
+22 Bugaj Zofia           12k PL  Joze  9    0    9    48   216  19-/b   20-/w   21-/b   18-/w   24-/b    |18201546
+23 Bodnar Timofey        16k PL  Wars  9    4    9    45   203  24+/w   18-/b   25+/b   19+/w   21+/b    |20449638
+24 Szalecka Martyna      16k PL  Krak  7    2    7    35   195  23-/b   32+/w   20-/b   26-/b   22+/w    |19850941
+25 Sobanski Michal       17k PL  Pozn  7    3    7    31   161  20-/b   27+/w   23-/w   29+/b   26+/b    |20113159
+26 Olbryk Oliwia         18k PL  Wroc  5    2    5    31   150  21-/b   29+/w   27-/b   24+/w   25-/w    |20598028
+27 Jadach Bruno          20k PL  Szcz  4    3    4    22   108  29-/w   25-/b   26+/w   28+/b   30+/w    |20486180
+28 Szalecki Kamil        30k PL  Krak  4    4    4    13   88=  30+/w   34+/b   33+/b   27-/w   32+/b    |20437186
+29 Kolinska Natalia      24k PL  Bydg  3    3    3    19   121  27+/b   26-/b   32+/w   25-/w   36+/b    |19301854
+30 Kolinski Antoni       30k PL  Bydg  3    3    3    14   68   28-/b   31+/w   38+/w   33+/w   27-/b    |20433182
+31 Gmurzynska Karolina   30k PL  xxxx  3    3    3    10   56=  33-/w   30-/b   36+/w   34+/w   37+/b    |20837047
+32 Chroboczek Jacek      20k PL  xxxx  2    1    2    27   114  18-/b   24-/b   29-/b   37+/b   28-/w    |16250674
+33 Sobanski Piotr        30k PL  Pozn  2    2    2    14=  50   31+/b   36+/w   28-/w   30-/b   35-/b    |20849048
+34 Geruzel Gabriela      30k PL  xxxx  2    2    2    11   48=  36+/b   28-/w   37-/w   31-/b   38+/w    |20850049
+35 Meresinski Tomasz     30k PL  Krak  3=   2    2    3    23   0=      0=      0=      38+/b   33+/w    |20874051
+36 Warzeszak Agnieszka   30k PL  Wroc  1    1    1    10   64=  34-/w   33-/b   31-/b   0+      29-/w    |20886052
+37 Burzynska Natalia     30k PL  xxxx  2    1    1    7    48   0=      0=      34+/b   32-/w   31-/w    |20898053
+38 Januszkiewicz Kosma   30k PL  xxxx  1    0    0    8=   28   0=      0=      30-/b   35-/w   34-/b    |20833054

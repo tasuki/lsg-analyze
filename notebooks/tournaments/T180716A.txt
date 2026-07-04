@@ -1,0 +1,40 @@
+; TC[T180716A]
+; CL[B]
+; EV[Summer Go School Entrance Tournament]
+; PC[PL, Przystanek Alaska]
+; DT[2018-07-16,2018-07-16]
+; HA[h9]
+; KM[6.5]
+; TM[55]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Chmielewski Artur       1d PL  Star  14   4    14   49=  190  11+/b   3+/w    2+/w    4+/b     |15350841
+ 2 Walaszewski Maksym      2d PL  Bydg  13   3    13   49   193= 5+/b    4+/w    1-/b    10+/b    |15050673
+ 3 Stepnowski Pawel        1k PL  Wroc  13   3    13   48   191= 7+/b    1-/b    10+/w   5+/w     |14313134
+ 4 Frejlak Jan             1d PL  Wars  12   2    12   49   187= 8+/w    2-/b    7+/w    1-/w     |12801591
+ 5 Bialozyt Adam           1k PL  Krak  12   2    12   49   182  2-/w    8+/b    6+/w    3-/b     |16586053
+ 6 Kulczycki Marcin        5k PL  Krak  12   3    12   43   175  12+/w   7+/w    5-/b    13+/b    |14350512
+ 7 Jelowicki Patryk        3k PL  Kosz  11   1    11   47   183  3-/w    6-/b    4-/b    12+/b    |15886629
+ 8 Palej Malgorzata        4k PL  Krak  11   1    11   42   173  4-/b    5-/w    12-/b   15+/b    |13925032
+ 9 Skibinski Pawel         4k PL  Krak  12=  1    11   39   158= 14+/w   0=      0=      0=       |14813436
+10 Obrok Pawel             3k PL  Krak  11   0    10   46   177  0=      0=      3-/b    2-/w     |13686750
+11 Sobanski Grzegorz       4k PL  Pozn  11=  0    10   44   169= 1-/w    0=      0=      0=       |13062698
+12 Warniello Tomasz        6k PL  Bial  10   2    10   43   170= 6-/b    14+/b   8+/w    7-/w     |18774932
+13 Szelag Mateusz          7k PL  Wroc  10   3    10   36   140= 15+/b   16+/w   14+/b   6-/w     |15886365
+14 Kawczynski Adam         6k PL  Lodz  9    1    9    38=  142  9-/b    12-/w   13-/w   17+/w    |15325189
+15 Milkowski Jakub         8k PL  Zory  8    2    8    32   127  13-/w   19+/b   16+/b   8-/w     |17937370
+16 Mazur Michal            9k PL  Bial  7    2    7    27   108  18+/b   13-/b   15-/w   19+/w    |18050109
+17 Chlebowicz January      9k PL  Manc  6    0    5    24   96=  0=      0=      18-/w   14-/b    |17925908
+18 Chojnacki Piotr        11k PL  Bydg  5    2    5    18   74   16-/w   25+/b   17+/b   20-/w    |14225497
+19 Dziezyc Marcin         12k PL  Wars  4    2    4    22   83   20+/b   15-/w   21+/b   16-/b    |18750864
+20 Biernot Ewa            13k PL  Pozn  4    3    4    13   60   19-/w   23+/b   24+/w   18+/b    |18398402
+21 Stasinski Jakub        15k PL  Pozn  3    3    3    11   45   23+/w   22+/b   19-/w   26+/b    |16733596
+22 Cylwik Robert          17k PL  Bial  3    3    3    8    41   24+/w   21-/w   25+/b   23+/b    |18298610
+23 Szustakiewicz Mikolaj  13k PL  Wroc  2    1    2    12   34   21-/b   20-/w   27+/b   22-/w    |17486821
+24 Doruch Cyprian         16k PL  Wroc  2    2    2    8    38   22-/b   28+/w   20-/b   25+/w    |18725927
+25 Kepowicz Dariusz       18k PL  Wroc  1    1    1    10   41   28+/b   18-/w   22-/w   24-/b    |18413351
+26 Barcicki Tymoteusz     20k PL  Pozn  2    1    1    3    18   0=      0=      28+/b   21-/w    |18737928
+27 Dlugosz Joanna         20k PL  Pozn  2    1    1    2    19   0=      0=      23-/w   28+/b    |18750930
+28 Myslinska Justyna      20k PL  Bial  0    0    0    7    23   25-/w   24-/b   26-/w   27-/w    |18701925
+
+

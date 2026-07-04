@@ -1,0 +1,42 @@
+; TC[T200708A]
+; CL[A]
+; EV[Summer Go School Marathon]
+; PC[PL, Przystanek Alaska]
+; DT[2020-07-08,2020-07-17]
+; HA[h9]
+; KM[6.5]
+; TM[105]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Majka Marcin           4d PL  Wroc  21   6    21   126  842= 4+/b    9+/w    2-/w    6+/w    3+/b    7+/b    8+/b     |14713413
+ 2 Jurkiewicz Dawid       3d PL  Szcz  21   5    20   122  820= 10+/w   3+/b    1+/b    7+/w    0=      0=      4+/w     |15650283
+ 3 Frejlak Jan            1k PL  Wars  18   3    18   125= 822  6+/b    2-/w    9-/b    4+/b    1-/w    8-/w    12+/w    |12801591
+ 4 Fraczak Pawel          1k PL  Wars  18   3    18   125  834  1-/w    6-/b    8+/b    3-/w    7+/b    11+/w   2-/b     |14650768
+ 5 Fraczak Jan            2d PL  Wars  19   2    17   112= 771= 9-/w    10+/b   6+/w    0=      0=      0=      0=       |16298964
+ 6 Leszczynski Grzegorz   1k PL  Wars  17   1    16   122= 813= 3-/w    4+/w    5-/b    1-/b    8-/w    0=      0=       |14033734
+ 7 Chojnacki Mateusz      1d PL  Wroc  17=  1    16   119  792= 0=      0=      0=      2-/b    4-/w    1-/w    11+/b    |14237498
+ 8 Libront Dawid          4k PL  Bydg  16=  4    16   114= 773  0=      14+/b   4-/w    13+/w   6+/b    3+/b    1-/w     |15698287
+ 9 Drzystek Andrzej       2k PL  Wars  18   2    16   114  756  5+/b    1-/b    3+/w    0=      0=      0=      0=       |15350973
+10 Walaszewski Maksym     3d PL  Bydg  17=  0    15   115  759= 2-/b    5-/w    0=      0=      0=      0=      0=       |15050673
+11 Schultze Achim         5k DE  Goet  14   3    14   104= 710  12-/b   16+/w   13-/w   15+/b   14+/w   4-/b    7-/w     |10474739
+12 Doruch Cyprian         6k PL  Wroc  14   4    14   98   673= 11+/w   13-/b   14+/b   18+/b   15+/w   16-/w   3-/b     |18725927
+13 Blumberg Klaus         5k DE  BS    14   3    14   96=  664  14-/w   12+/w   11+/b   8-/b    16-/w   15-/b   18+/b    |10486124
+14 Milkowski Jakub        5k PL  Krak  14=  3    14   93=  653= 13+/b   8-/w    12-/w   0=      11-/b   17+/w   15+/b    |17937370
+15 Kawczynski Adam        7k PL  Lodz  13   4    13   93   622= 19+/b   20+/w   16+/b   11-/w   12-/b   13+/w   14-/w    |15325189
+16 Kwietniewska Daria     7k PL  Wroc  13=  4    13   85   597  17+/w   11-/b   15-/w   0=      13+/b   12+/b   20+/b    |16062684
+17 Bednarska Julia        8k PL  Toru  11   3    11   70   450= 16-/b   21-/w   20+/b   22+/w   18-/w   14-/b   27+/b    |16733706
+18 Chojnacka Marcelina    8k PL  Bydg  11   2    10   75=  497  0=      0=      21+/b   12-/w   17+/b   20-/w   13-/w    |14398802
+19 Kaskow Wojciech        6k PL  Szcz  13   0    10   73   513  15-/w   0=      0=      0=      0=      0=      0=       |16201526
+20 Barcicki Tymoteusz    10k PL  Pozn  10   4    10   72   431= 21+/b   15-/b   17-/w   26+/w   22+/b   18+/b   16-/w    |18737928
+21 Mroczek Marcel        10k PL  Krak  10=  4    10   48=  357  20-/w   17+/b   18-/w   0=      25+/b   27+/w   23+/b    |18374048
+22 Chojnacki Piotr       11k PL  Bydg  8=   2    7    40   307  0=      0=      0=      17-/b   20-/w   25+/w   29+/b    |14225497
+23 Kluziak Maria         14k PL  Krak  5=   3    5    29   176= 24-/w   30+/b   26-/b   0=      27+/b   29+/w   21-/w    |19525913
+24 Tytus Aleksander      15k PL  Gorz  6    3    4    16=  80=  23+/b   28+/w   30+/w   0=      0=      0=      0=       |19337846
+25 Kolinski Leszek       20k PL  Bydg  3    3    3    32=  207  31-/b   26-/w   27+/w   29+/b   21-/w   22-/b   0+       |19333853
+26 Wajda Wojciech        20k PL  Gorz  4=   3    3    19=  161  29+/w   25+/b   23+/w   20-/b   0=      0=      0=       |19374850
+27 Przybylak Maria       20k PL  Gorz  2    2    2    36   252= 28-/b   29+/w   25-/b   0+      23-/w   21-/b   17-/w    |19350859
+28 Opawski Jan           18k PL  Wars  4    2    2    9    80   27+/w   24-/b   29+/b   0=      0=      0=      0=       |19598832
+29 Kolinska Natalia      20k PL  Bydg  1    1    1    27=  193= 26-/b   27-/b   28-/w   25-/w   0+      23-/b   22-/w    |19301854
+30 Zielinski Piotr       20k PL  Pozn  3    1    1    14=  48=  32+/w   23-/w   24-/b   0=      0=      0=      0=       |19462872
+31 Kozlowski Samuel      20k PL  Gdan  4    1    1    3    32=  25+/w   0=      0=      0=      0=      0=      0=       |19537914
+32 Dlugosz Joanna        20k PL  Pozn  3    0    0    3    14=  30-/b   0=      0=      0=      0=      0=      0=       |18750930

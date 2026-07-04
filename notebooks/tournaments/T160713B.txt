@@ -1,0 +1,42 @@
+; TC[T160713B]
+; CL[A]
+; EV[Summer Go School Marathon]
+; PC[PL, Przystanek Alaska]
+; DT[2016-07-13,2016-07-22]
+; HA[h9]
+; KM[6.5]
+; TM[105]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Majka Marcin            3d PL  Wroc  13   8    71   573  2+/b    7+/w    3+/w    4+/b    5+/w    8+/b    11+/b   9+/w     |14713413
+ 2 Walaszewski Maksym      1d PL  Bydg  11=  6    69=  526  1-/w    8+/b    0=      6+/b    3+/w    4+/b    7+/w    11+/w    |15050673
+ 3 Cieslak Karol           1d PL  Kosz  10   5    74   567  8+/b    4+/w    1-/b    9+/w    2-/b    7+/w    5+/b    12-/b    |14649228
+ 4 Stepnowski Pawel         2k PL  Wroc  10   5    72   541  5+/w    3-/b    7+/b    1-/w    9+/b    2-/w    8+/w    18+/b    |14313134
+ 5 Domanski Filip          4k PL  Wars  8=   3    68   537= 4-/b    9-/w    11+/w   8+/b    1-/b    12+/b   3-/w    0=       |16949526
+ 6 Fajfrowski Lukasz       4k PL  Wroc  8=   1    51=  407  0=      12+/b   9-/w    2-/w    0=      0=      0=      0=       |12774850
+ 7 Fraczak Pawel           2k PL  Wars  8    3    74=  567  9+/b    1-/b    4-/w    12+/w   11+/w   3-/b    2-/b    8-/w     |14650768
+ 8 Drzystek Andrzej        2k PL  Wars  8    3    74=  531= 3-/w    2-/w    13+/b   5-/w    12+/b   1-/w    4-/b    7+/b     |15350973
+ 9 Obrok Pawel             2k PL  Krak  8    3    72   545  7-/w    5+/b    6+/b    3-/b    4-/w    11-/b   12+/w   1-/b     |13686750
+10 Gutkowski Marek         6k PL  Wars  7=   2    34   242  17+/b   13+/w   12-/w   0=      0=      0=      0=      0=       |12086173
+11 Kulczycki Marcin        5k PL  Krak  7    3    68=  479= 12-/w   14+/w   5-/b    15+/b   7-/b    9+/w    1-/w    2-/b     |14350512
+12 Palej Malgorzata        5k PL  Krak  7    3    65=  517  11+/b   6-/w    10+/b   7-/b    8-/w    5-/w    9-/b    3+/w     |13925032
+13 Kaskow Wojciech         6k PL  Szcz  6=   1    37   262= 14+/b   10-/b   8-/w    0=      0=      0=      0=      0=       |16201526
+14 Korczewski Lukasz       6k PL  Wars  6=   1    34   252= 13-/w   11-/b   16+/w   0=      0=      0=      0=      0=       |16274049
+15 Cieslak Wojciech        8k PL  Kosz  6    3    25   192= 0=      0=      0=      11-/w   16+/b   19+/w   22+/b   0=       |15474052
+16 Rudnicki Janusz         8k PL  Pola  5=   3    27   154  26+/w   19+/w   14-/b   25+/b   15-/w   0=      0=      0=       |17598713
+17 Kwietniewska Daria      8k PL  Wroc  5=   2    19=  124= 10-/w   28+/b   23+/b   0=      0=      0=      0=      0=       |16062684
+18 Kolodziej Marta        15k PL  Wars  5    5    37=  249  22+/b   23-/w   20+/w   24-/b   28+/w   25+/b   19+/b   4-/w     |17913258
+19 Tokarski Filip         11k PL  Wars  4=   4    33   169  21+/w   16-/b   22+/b   23+/w   24+/w   15-/b   18-/w   0=       |17537652
+20 Szustakiewicz Mikolaj  14k PL  Wroc  4=   3    19   126  23-/b   26+/w   18-/b   28+/w   25+/w   0=      0=      0=       |17486821
+21 Cieslak Anna           10k PL  Kosz  4=   2    11=  96   19-/b   22+/w   28+/w   0=      0=      0=      0=      0=       |16262367
+22 Klimczak Mariusz       12k PL  Bydg  4    4    32   200= 18-/w   21-/b   19-/w   29+/b   0+      24+/w   15-/w   28+/b    |16586614
+23 Bogdziewicz Tomasz     13k PL  Pozn  4    2    19=  109  20+/w   18+/b   17-/w   19-/b   0=      0=      0=      0=       |17913907
+24 Krzywolak Anna         12k PL  Raci  4    2    16=  119  0=      0=      0=      18+/w   19-/b   22-/b   0+      0=       |16937184
+25 Szczesniak Stanislaw   17k PL  Wars  3=   3    26   158  0=      29+/b   27+/w   16-/w   20-/b   18-/w   28-/b   0+       |17949910
+26 Markiewicz Piotr       16k PL  Olsz  3=   1    12   60   16-/b   20-/b   29+/w   0=      0=      0=      0=      0=       |17901950
+27 Okonski Konrad         19k PL  Wroc  3=   0    3=   26   0=      0=      25-/b   0=      0=      0=      0=      0=       |17874472
+28 Mazur Michal           20k PL  Bial  3    3    31   190= 29+/w   17-/w   21-/b   20-/b   18-/b   0+      25+/w   22-/w    |18050109
+29 Chlebowicz January     20k PL  Chjn  2    0    14   101  28-/b   25-/w   26-/b   22-/w   0=      0=      0=      0=       |17925908
+
+
+

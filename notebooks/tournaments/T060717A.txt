@@ -1,0 +1,63 @@
+; CL[B]
+; EV[Summer Go Camp]
+; PC[PL, Przystanek Alaska]
+; DT[2006-07-17,2006-07-19]
+; HA[h9]
+; KM[6.5]
+; TM[60]
+;
+  1 Kaminski Marek          1d PL Walb 26 5 143 118   6+/w0  4-/w0  2+/b0  3+/b0 12+/w0  5+/w0 |13913823
+  2 Celejewski Piotr        1k PL Choc 25 4 142  93   3+/b0  5-/w0  1-/w0 12+/b0  6+/w0  7+/b0 |12801063
+  3 Sosnicka Anna           2k PL Szcz 25 4 142  91   2-/w0 13+/b0  5+/b0  1-/w0  8+/b0  6+/b0 |13925769
+  4 Lubos Jan               4d PL Wodz 25 2 133  49   9+/w0  1+/b0  0=     0=     0=     0=    |10337613
+  5 Cichuta Dawid           4k PL Krak 23 3 144  70   7+/b0  2+/b0  3-/w0  6-/w0 16+/w0  1-/b0 |13874168
+  6 Bebenek Jaroslaw        4k PL Wars 23 3 144  68   1-/b0  7+/w0 13+/w0  5+/b0  2-/b0  3-/w0 |13886378
+  7 Ciesla Kacper           4k PL Krak 23 3 137  66   5-/w0  6-/b0 18+/w0 10+/b0 13+/w0  2-/w0 |13749230
+  8 Palej Malgorzata        6k PL Krak 23 5 134 109  15+/b0 21+/w0 16+/w0 17+/b0  3-/w0 14+/w0 |13925032
+  9 Gasiorowski Michal      1k PL Wars 23 0 130   0   4-/b0  0=     0=     0=     0=     0=    |13586947
+ 10 Kleczar Justyna         5k PL Zgor 23 4 129  84  18+/b0 14-/w0 28+/b0  7-/w0 15+/w0 13+/b0 |13886169
+ 11 Oratowski Jakub         4k PL Krak 23 1 122  22   0=     0=     0=     0=     0=    12+/b0 |14286162
+ 12 Polonis Pawel           5k PL Gdan 22 3 137  63  25+/b0 19+/w0 14+/b0  2-/w0  1-/b0 11-/w0 |13598728
+ 13 Warecki Tymon           4k PL Lodz 22 2 137  43  19+/b0  3-/w0  6-/b0 14+/w0  7-/b0 10-/w0 |13862893
+ 14 Mazurek Katarzyna       5k PL Krak 22 3 132  65  17+/w0 10+/b0 12-/w0 13-/b0 24+/w0  8-/b0 |13862167
+ 15 Pyzalski Szymon         6k PL Pozn 22 4 128  82   8-/w0 20+/b0 26+/b0 24+/w0 10-/b0 18+/w0 |12833810
+ 16 Sobanski Grzegorz       6k PL Pozn 22 4 128  82  27+/w0 25+/w0  8-/b0 18+/b0  5-/b0 20+/w0 |13062698
+ 17 Lubos Przemyslaw        5k PL Wodz 22 2 124  41  14-/b0 26+/w0 19+/w0  8-/w0  0=     0=    |12074260
+ 18 Bugalski Lukasz         5k PL Gdan 21 2 130  40  10-/w0 24+/b0  7-/b0 16-/w0 25+/w0 15-/b0 |13533718
+ 19 Piekarczyk Marta        4k PL Pozn 21 0 126   0  13-/w0 12-/b0 17-/b0  0=     0=     0=    |13025628
+ 20 Mos Anna                6k PL Byto 21 3 124  59  21-/b0 15-/w0 25+/w0 28+/b0 26+/b0 16-/b0 |13898027
+ 21 Kowalski Dominik        6k PL Zgie 21 3 122  59  20+/w0  8-/b0 24-/b0 26-/w0 29+/b0 25+/w0 |13450921
+ 22 Beltowska Katarzyna     6k PL Skar 21 3 117  56  26-/b0 23-/w0 33+/b0 25-/b0 28+/w0 24+/w0 |13013968
+ 23 Czaplik Malgorzata      6k PL Biel 21 1 113  21  24-/w0 22+/b0  0=     0=     0=     0=    |13013627
+ 24 Stozek Jan              6k PL Wars 20 2 128  42  23+/b0 18-/w0 21+/w0 15-/b0 14-/b0 22-/b0 |12713019
+ 25 Wlodarski Przemyslaw    5k PL Wars 20 1 128  21  12-/w0 16-/b0 20-/b0 22+/w0 18-/b0 21-/b0 |14074049
+ 26 Janyst Karol            6k PL Wars 20 2 126  42  22+/w0 17-/b0 15-/w0 21+/b0 20-/w0  0-    |13837813
+ 27 Pakosz Maciej           6k PL Byto 20 0 113   0  16-/b0 28-/w0  0=     0=     0=     0=    |14298163
+ 28 Chojnacki Mateusz       7k PL Bydg 19 2 123  38  30+/b0 27+/b0 10-/w0 20-/w0 22-/b0  0-    |14237498
+ 29 Grabowski Lukasz        10 PL Gdan 18 4 107  68  35+/w0 31+/w0 30+/b0 33+/b0 21-/w0 32-/w0 |13862156
+ 30 Bylinski Dawid          8k PL Wars 18 2 107  35  28-/w0 33-/w0 29-/w0 31+/b0 32-/b0 34+/b0 |14013054
+ 31 Musielak Krystyna       10 PL Pozn 18 4 102  66  34+/w0 29-/b0 32+/b0 30-/w0 36+/b0 33+/w0 |13698916
+ 32 Glowinski Przemyslaw    9k PL Bydg 18 4 100  65  33-/b0 35+/w0 31-/w0 36+/w0 30+/w0 29+/b0 |13637921
+ 33 Iwanowski Artur         9k PL Lidz 17 2 110  36  32+/w0 30+/b0 22-/w0 29-/w0 34-/b0 31-/b0 |14374965
+ 34 Stepnowski Pawel         11 PL Wroc 17 4  95  59  31-/b0 37+/b0 35+/b0 40+/w0 33+/w0 30-/w0 |14313134
+ 35 Krauze Monika           10 PL Wars 15 0  95   0  29-/b0 32-/b0 34-/w0  0=     0=     0=    |13925230
+ 36 Piaskowski Michal       12 PL Zgie 14 2  89  27  41-/b0 40+/w0 37+/w0 32-/b0 31-/w0 38-/b0 |14050014
+ 37 Wroclawski Stefan       12 PL Soch 14 1  82  13  40+/b0 34-/w0 36-/b0 39-/w0  0=     0=    |13901569
+ 38 Wozniak Anna            16 PL Choc 14 6  70  70  39+/b0 41+/w0 42+/w0 43+/b0 40+/w0 36+/w0 |12950586
+ 39 Gogosz Dorota           14 PL Choc 14 5  70  56  38-/w0 42+/b0 43+/w0 37+/b0 41+/b0 40+/w0 |12901581
+ 40 Tajsich Mateusz         12 PL Lodz 13 1  85  12  37-/w0 36-/b0 41+/w0 34-/b0 38-/b0 39-/b0 |13849902
+ 41 Pilkowski Pawel         14 PL Bial 12 2  75  24  36+/w0 38-/b0 40-/b0 42+/b0 39-/w0  0=    |14362997
+ 42 Wozniak Aleksandra      16 PL Choc 10 2  58  12  43+/b0 39-/w0 38-/b0 41-/w0 45+/w5  0-    |12986589
+ 43 Piatkowski Lukasz       18 PL Pozn  7 1  53   4  42-/w0 45-/w3 39-/b0 38-/w0 44-/w8 46+/w6 |14337136
+ 44 Pakosz Zuzanna          20 PL Tych  6 6  31  31  50+/b0 46+/w0 45+/b3 48+/b0 43+/b8  0+    |14037584
+ 45 Dobek Krystian          20 PL Wars  5 4  31  15  48+/w5 43+/b3 44-/w3 47+/w3 42-/b5 50+/w2 |14313970
+ 46 Bojar Olga              20 PL Wars  4 4  21   8  47+/w0 44-/b0 50+/b0 52+/w2 51+/w0 43-/b6 |13601214
+ 47 Pakosz Alicja           20 PL Tych  3 2  14   5  46-/b0 50+/w0 49+/w0 45-/b3  0=     0=    |14574021
+ 48 Sokal Mikolaj           20 PL Tych  3 2  14   3  45-/b5 52+/b0 51+/w0 44-/w0  0=     0=    |14598023
+ 49 Skowron Katarzyna       20 PL Zabr  3 2   6   3  52+/w0 51+/b0 47-/b0  0=     0=     0=    |14225167
+ 50 Zurek Jakub             20 PL Krak  2 2  21   3  44-/w0 47-/b0 46-/w0 51+/b0 52+/w1 45-/b2 |14325971
+ 51 Dobek Jerzy             20 PL Wars  2 2  14   2   0+    49-/w0 48-/b0 50-/w0 46-/b0 52+/w0 |14349973
+ 52 Sokal Karolina          20 PL Tych  1 1  14   0  49-/b0 48-/w0  0+    46-/b2 50-/b1 51-/b0 |14533024
+
+
+

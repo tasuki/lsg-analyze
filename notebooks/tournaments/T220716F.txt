@@ -1,0 +1,54 @@
+; TC[T220716F]
+; CL[A]
+; EV[Summer Go School - Marcin Zgirski memorial]
+; PC[PL, Przystanek Alaska]
+; DT[2022-07-16,2022-07-17]
+; HA[h9]
+; KM[6.5]
+; TM[75]
+; CM[Fischer 45min+15sec (submitted by kamyszyn)]
+;.
+ 1 Czernecki Cezary      4d PL  Bial  41   6    41   229  1360 3+/w    10+/b   2+/w    9+/b    6+/w    7+/w     |14813139
+ 2 Shalneva Virzhinia    4d RU  50Zh  40   5    40   228= 1366 4+/b    6+/w    1-/b    3+/w    7+/b    8+/w     |16325034
+ 3 Lew Lukasz            2d PL  Ziel  38=  3    38   227  1341= 1-/b    8+/w    4+/w    2-/b    11+/w   0=       |12913120
+ 4 Walaszewski Maksym    3d PL  Bydg  38   3    38   226= 1360= 2-/w    11+/b   3-/b    7-/w    5+/w    6+/b     |15050673
+ 5 Fraczak Pawel         1d PL  Wars  38   3    38   223  1336 6-/b    15+/w   10-/b   8+/w    4-/b    11+/b    |14650768
+ 6 Cieslak Karol         3d PL  Kosz  37   2    37   230  1348= 5+/w    2-/b    9-/w    13+/b   1-/b    4-/w     |14649228
+ 7 Walaszewski Bruno     1d PL  Krak  37   2    37   229  1345= 8-/b    9-/w    14+/w   4+/b    2-/w    1-/b     |14950430
+ 8 Drzystek Andrzej      1k PL  Wars  37   3    37   224= 1348= 7+/w    3-/b    11+/w   5-/b    13+/b   2-/b     |15350973
+ 9 Fraczak Jan           2d PL  Wars  38   2    37   223= 1330 10-/w   7+/b    6+/b    1-/w    0=      0=       |16298964
+10 Jurkiewicz Dawid      4d PL  Pozn  38=  2    37   222  1305= 9+/b    1-/w    5+/w    0=      0=      0=       |15650283
+11 Bugaj Antoni          1k PL  Wars  36   2    36   223  1326 13+/w   4-/w    8-/b    12+/b   3-/b    5-/w     |17898078
+12 Bednarczyk Dariusz    2k PL  Pozn  36=  3    36   207  1261 14+/w   13-/b   0=      11-/w   17+/b   16+/w    |14037826
+13 Szychowiak Wojciech   2k PL  Bydg  35   2    35   218  1308 11-/b   12+/w   15+/b   6-/w    8-/w    14-/b    |10801835
+14 Szychowiak Marianna   2k PL  Bydg  35   2    35   213= 1269= 12-/b   16+/w   7-/b    15-/w   18-/b   13+/w    |16725709
+15 Blaszczyk Diana       1k PL  Kali  36=  1    35   210  1266= 0=      5-/b    13-/w   14+/b   0=      0=       |13674386
+16 Barcicki Tymoteusz    4k PL  Pozn  34   3    34   205  1221= 18+/b   14-/b   22+/w   17-/w   19+/w   12-/b    |18737928
+17 Bogdziewicz Tomasz    5k PL  Pozn  34   4    34   203= 1195= 22+/b   20+/w   18+/w   16+/b   12-/w   23-/b    |17913907
+18 Milkowski Jakub       4k PL  Krak  34=  3    34   200= 1196 16-/w   19+/b   17-/b   23+/w   14+/w   0=       |17937370
+19 Kwietniewska Daria    6k PL  Pozn  33   4    33   197= 1153 24+/w   18-/w   21+/b   20+/b   16-/b   25+/w    |16062684
+20 Blumberg Klaus        5k DE  BS    33   3    33   193  1165= 21+/w   17-/b   24-/b   19-/w   27+/w   22+/b    |10486124
+21 Mroczek Marcel        5k PL  Krak  33   3    33   189  1144= 20-/b   22-/w   19-/w   27+/w   24+/b   26+/b    |18374048
+22 Schultze Achim        5k DE  Goet  32   2    32   199= 1169 17-/w   21+/b   16-/b   24+/w   23-/b   20-/w    |10474739
+23 Stalinski Emilia      5k DE  B     33=  2    32   190= 1143= 0=      0=      0=      18-/b   22+/w   17+/w    |12062765
+24 Okonkwo Jeoman        6k PL  Pozn  32   3    32   188  1139= 19-/b   27+/w   20+/w   22-/b   21-/w   29+/b    |18386401
+25 Bednarska Julia       8k PL  Toru  31   4    31   177= 1077 27-/b   28+/w   30+/b   29+/w   26+/w   19-/b    |16733706
+26 Rapanowicz Grzegorz   8k PL  Lubn  30   3    30   178= 1067= 29+/w   30+/b   27-/b   28+/w   25-/b   21-/w    |15362974
+27 Siwy Adam             8k PL  Szcz  29   2    29   188  1098= 25+/w   24-/b   26+/w   21-/b   20-/b   28-/b    |19725508
+28 Klamecka Natalia      9k PL  Wroc  29   3    29   172= 1033= 30-/w   25-/b   29+/w   26-/b   31+/b   27+/w    |14033239
+29 Chlebowicz January    9k PL  Choj  28   2    28   172= 1017 26-/b   33+/w   28-/b   25-/b   34+/b   24-/w    |17925908
+30 Bugaj Joanna          9k PL  Joze  28=  1    27   168  996= 28+/b   26-/w   25-/w   0=      0=      0=       |14962849
+31 Dec Tomasz           13k PL  Gdan  26   4    26   149  843= 35+/b   32-/w   33+/b   34+/w   28-/w   38+/b    |19450563
+32 Kluziak Maria        15k PL  Krak  25   5    25   132= 777  39+/w   31+/b   35-/w   33+/b   37+/b   40+/w    |19525913
+33 Krainova Liubov      11k DE  B     25   0    24   152= 890  0=      29-/b   31-/w   32-/w   0=      34-/b    |19850974
+34 Stalinski Viktor     12k DE  B     25=  1    24   148  888  0=      0=      0=      31-/b   29-/w   33+/w    |19362783
+35 Tytus Aleksander     14k PL  Gorz  24=  2    23   134  775= 31-/w   37+/b   32+/b   0=      0=      0=       |19337846
+36 Stalinski Felicia    16k DE  B     22=  2    21   108  653  0=      0=      0=      37+/w   40-/b   41+/b    |18498546
+37 Bugaj Zofia          17k PL  Joze  20   2    20   116  671  38-/w   35-/w   40+/b   36-/b   32-/w   42+/b    |18201546
+38 Szkatulski Artur     20k PL  Pozn  20   5    20   104  661  37+/b   40+/w   39+/b   41+/w   42+/b   31-/w    |19533921
+39 Klamecka Kamila      17k PL  Pozn  20   0    18   117  668= 32-/b   0=      38-/w   0=      0=      0=       |14074830
+40 Szalecka Martyna     20k PL  Nie   17   2    17   108= 631  41-/w   38-/b   37-/w   42+/b   36+/w   32-/b    |19850941
+41 Barcicki Kacper      25k PL  Pozn  14   4    14   86=  532  40+/b   42+/w   43+/w   38-/b   0+      36-/w    |19850039
+42 Kolinska Natalia     30k PL  Bydg  7    2    7    84   540  43+/b   41-/b   0+      40-/w   38-/w   37-/w    |19301854
+43 Stanislawski Emil    30k PL  xxxx  7    0    5    41   290= 42-/w   0=      41-/b   0=      0=      0=       |20174187
+

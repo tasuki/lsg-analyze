@@ -1,0 +1,37 @@
+; TC[T150714A]
+; CL[B]
+; EV[Summer Go School Entrance Tournament]
+; PC[PL, Przystanek Alaska]
+; DT[2015-07-14,2015-07-14]
+; HA[h9]
+; KM[6.5]
+; TM[60]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Surma Mateusz         1p PL  Dzim  32   4    121  480  4+/w    3+/b    2+/w    5+/w     |12837968
+ 2 Majka Marcin          3d PL  Wroc  31   3    120  478  6+/b    7+/w    1-/b    4+/w     |14713413
+ 3 Frejlak Stanislaw     4d PL  Wars  31   3    119  477  5+/b    1-/w    7+/w    6+/w     |12837594
+ 4 Cieslak Karol         1k PL  Kosz  30   2    121  480  1-/b    6+/w    5+/b    2-/b     |14649228
+ 5 Fraczak Pawel         2k PL  Wars  29   1    120  470  3-/w    10+/b   4-/w    1-/b     |14650768
+ 6 Sliwinski Rafal       1k PL  Gdan  29   1    119  471  2-/w    4-/b    9+/w    3-/b     |16333801
+ 7 Bednarczyk Dariusz    3k PL  Pozn  29   2    117  460  8+/w    2-/b    3-/b    9+/w     |14037826
+ 8 Sobanski Grzegorz     4k PL  Pozn  28   2    110  437  7-/b    9-/b    11+/w   12+/w    |13062698
+ 9 Bialozyt Adam         5k PL  Krak  27   2    111  453  15+/b   8+/w    6-/b    7-/b     |16586053
+10 Barcicki Artur        5k PL  Pozn  27   2    109  434  11+/b   5-/w    12-/w   13+/w    |14637227
+11 Korczewski Lukasz     5k PL  Wars  27   2    106  431  10-/w   13+/b   8-/b    15+/b    |16274049
+12 Gutkowski Marek       6k PL  Wars  27   3    103  421  21+/w   15+/w   10+/b   8-/b     |12086173
+13 Libront Dawid         6k PL  Bydg  26   2    105  422  14+/b   11-/w   15+/w   10-/b    |15698287
+14 Bandach Lukasz        6k PL  Rzes  26   2    100  396  13-/w   17-/b   18+/w   16+/b    |16213197
+15 Skibinska Paulina     5k PL  Pozn  25   0    107  425  9-/w    12-/b   13-/b   11-/w    |15062674
+16 Domanski Filip        8k PL  Wars  25   3    99   384  18+/b   19+/w   17+/w   14-/w    |16949526
+17 Szelag Mateusz        8k PL  Wroc  25   3    95   378  22+/w1  14+/w   16-/b   20+/b    |15886365
+18 Cieslak Wojciech      8k PL  Kosz  24   2    97   390  16-/w   20+/b   14-/b   21+/w    |15474052
+19 Slusarczyk Wojciech   8k PL  Pozn  24   1    92   371  20+/w   16-/b   0=      0=       |14533486
+20 Bojar Olga            8k PL  Wars  23   1    96   379  19-/b   18-/w   21+/b   17-/w    |13601214
+21 Kwietniewska Daria    8k PL  Wroc  23   1    95   379  12-/b   22+/w1  20-/w   18-/b    |16062684
+22 Rudnicki Janusz      11k PL  Pola  20   1    83   289  17-/b1  21-/b1  24+/w5  23-/w5   |17598713
+23 Rymarowicz Pawel     20k PL  Otwo  14   4    49   155  24+/b   26+/w9  25+/w9  22+/b5   |16333735
+24 Tokarski Filip       19k PL  Wars  13   2    50   154  23-/w   25+/w9  22-/b5  26+/w9   |17537652
+25 Banaszek Michal      20k PL  Pozn  2    2    11   121  26+/b   24-/b9  23-/b9  0+       |17533714
+26 Dolska Joanna        20k PL  Pozn  1    1    11   121  25-/w   23-/b9  0+      24-/b9   |17501715
+

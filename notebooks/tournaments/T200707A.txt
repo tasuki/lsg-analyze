@@ -1,0 +1,46 @@
+; TC[T200707A]
+; CL[B]
+; EV[Summer Go School Entrance Tournament]
+; PC[PL, Przystanek Alaska]
+; DT[2020-07-07,2020-07-07]
+; HA[h9]
+; KM[6.5]
+; TM[55]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Kay Andrew             4d UK  Bmhm  22   4    22   80   326  7+/b    3+/w    2+/b    4+/b     |14613720
+ 2 Jurkiewicz Dawid       3d PL  Szcz  21   3    21   82   319= 6+/b    5+/b    1-/w    3+/b     |15650283
+ 3 Walaszewski Bruno      1k PL  Krak  20   2    20   82   323  4+/w    1-/b    8+/b    2-/w     |14950430
+ 4 Fraczak Jan            2d PL  Wars  20   2    20   82   319= 3-/b    6+/w    5+/b    1-/w     |16298964
+ 5 Walaszewski Maksym     3d PL  Bydg  20   2    20   79   323  8+/b    2-/w    4-/w    7+/w     |15050673
+ 6 Leszczynski Grzegorz   1k PL  Wars  20   2    20   78=  315= 2-/w    4-/b    11+/w   8+/w     |14033734
+ 7 Bialozyt Adam          1k PL  Krak  19   1    19   80   310= 1-/w    8-/w    9+/b    5-/b     |16586053
+ 8 Fraczak Pawel          1k PL  Wars  19   1    19   79   319= 5-/w    7+/b    3-/w    6-/b     |14650768
+ 9 Drzystek Andrzej       2k PL  Wars  19   2    19   72=  292= 11-/b   10+/w   7-/w    15+/b    |15350973
+10 Obrok Pawel            3k PL  Krak  19   3    19   70   278= 13+/b   9-/b    15+/w   12+/w    |13686750
+11 Jelowicki Patryk       3k PL  Kosz  18=  2    18   72=  279  9+/w    14+/b   6-/b    0=       |15886629
+12 Szelag Mateusz         4k PL  Wroc  17   2    17   68   272  15+/w   13-/w   17+/b   10-/b    |15886365
+13 Bednarczyk Dariusz     3k PL  Pozn  18   1    17   68   266  10-/w   12+/b   0=      0=       |14037826
+14 Libront Dawid          4k PL  Bydg  17=  2    17   64   255= 21+/b   11-/w   18+/w   0=       |15698287
+15 Palej Malgorzata       4k PL  Krak  16   1    16   70   274= 12-/b   17+/w   10-/b   9-/w     |13925032
+16 Doruch Cyprian         6k PL  Wroc  16   3    16   60   237= 20+/w   18-/b   19+/w   17+/b    |18725927
+17 Schultze Achim         5k DE  Goet  15   1    15   64   261= 18+/w   15-/b   12-/w   16-/w    |10474739
+18 Blumberg Klaus         5k DE  BS    15   1    15   63=  245  17-/b   16+/w   14-/b   19-/w    |10486124
+19 Kawczynski Adam        7k PL  Lodz  15   3    15   57   223= 23+/b   22+/w   16-/b   18+/b    |15325189
+20 Kwietniewska Daria     7k PL  Wroc  15   3    15   53   202  16-/b   23+/w   22+/b   24+/w    |16062684
+21 Milkowski Jakub        5k PL  Krak  15=  0    14   59=  232  14-/w   0=      0=      0=       |17937370
+22 Bednarska Julia        8k PL  Toru  13   2    13   50   204  25+/w   19-/b   20-/w   26+/b    |16733706
+23 Chojnacka Marcelina    8k PL  Bydg  13   2    13   50   204  19-/w   20-/b   26+/b   25+/b    |14398802
+24 Barcicki Tymoteusz    10k PL  Pozn  11   2    11   42   170  26-/b   27+/b   25+/w   20-/b    |18737928
+25 Kaminski Krzysztof    10k PL  Gdyn  10   1    10   47   189  22-/b   26+/w   24-/b   23-/w    |13586716
+26 Mroczek Marcel        10k PL  Krak  10   1    10   47   189  24+/w   25-/b   23-/w   22-/w    |18374048
+27 Kluziak Maria         14k PL  Krak  7    2    7    23   83   28-/b   24-/w   29+/b   30+/w    |19525913
+28 Tytus Aleksander      17k PL  Gorz  6    4    6    14   62   27+/w   29+/w   31+/b   32+/b    |19337846
+29 Opawski Jan           18k PL  Wars  3    2    3    15   59   36+/w   28-/b   27-/w   31+/w    |19598832
+30 Sliwicki Michal       20k PL  Krak  3    3    3    12   47   32+/w   33+/w   35+/w   27-/b    |19362849
+31 Kozlowski Samuel      20k PL  Gdan  2    2    2    13   40   33+/b   34+/w   28-/w   29-/b    |19537914
+32 Wajda Wojciech        20k PL  Gorz  2    2    2    11   40   30-/b   36+/b   34+/b   28-/w    |19374850
+33 Dlugosz Joanna        20k PL  Pozn  2    2    2    6    41   31-/w   30-/b   36+/b   35+/w    |18750930
+34 Kolinski Leszek       20k PL  Bydg  2    2    2    5    40   35+/b   31-/b   32-/w   36+/w    |19333853
+35 Kolinska Natalia      20k PL  Bydg  1    1    1    7    30   34-/w   0+      30-/b   33-/b    |19301854
+36 Przybylak Maria       20k PL  Gorz  0    0    0    9    37   29-/b   32-/w   33-/w   34-/b    |19350859

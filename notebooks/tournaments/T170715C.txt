@@ -1,0 +1,47 @@
+; TC[T170715C]
+; CL[A]
+; EV[Summer Go School - Jerzy Sacharewicz memorial]
+; PC[PL, Przystanek Alaska]
+; DT[2017-07-15,2017-07-16]
+; HA[h9]
+; KM[6.5]
+; TM[105]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Frejlak Stanislaw       6d PL  Wars  16   6    16   79   476  8+/w    2+/b    4+/b    6+/w    5+/w    3+/b     |12837594
+ 2 Cieslak Karol           1d PL  Kosz  15   5    15   80   465= 5+/b    1-/w    3+/b    10+/w   4+/w    9+/b     |14649228
+ 3 Majka Marcin            3d PL  Wroc  13   3    13   82   466  9-/w    5+/b    2-/w    7+/b    6+/b    1-/w     |14713413
+ 4 Walaszewski Maksym      2d PL  Bydg  13   3    13   79=  458= 12+/w   9+/b    1-/w    8+/b    2-/b    7-/w     |15050673
+ 5 Frejlak Jan             1d PL  Wars  13   3    13   78   445= 2-/w    3-/w    12+/b   9+/w    1-/b    14+/b    |12801591
+ 6 Bialozyt Adam           2k PL  Krak  13   4    13   77   457  11+/b   7+/w    9+/b    1-/b    3-/w    8+/b     |16586053
+ 7 Walaszewski Bruno       1k PL  Bydg  13   3    13   75   452= 10+/w   6-/b    8-/b    3-/w    11+/w   4+/b     |14950430
+ 8 Fraczak Pawel           1k PL  Wars  12   2    12   79=  448= 1-/b    12+/b   7+/w    4-/w    10-/b   6-/w     |14650768
+ 9 Stepnowski Pawel         1k PL  Wroc  12   2    12   77   461= 3+/b    4-/w    6-/w    5-/b    13+/w   2-/w     |14313134
+10 Straszewska Katarzyna   1k PL  Krak  13   2    12   70   419= 7-/b    13+/w   0=      2-/b    8+/w    0=       |13013968
+11 Domanski Filip          3k PL  Wars  11   3    11   64=  386= 6-/w    14-/b   15+/w   13+/w   7-/b    16+/b    |16949526
+12 Wroclawski Stefan       1k PL  Soch  11=  0    10   68   417  4-/b    8-/w    5-/w    0=      0=      0=       |13901569
+13 Jelowicki Patryk        3k PL  Kosz  10   2    10   65   378= 15+/w   10-/b   14+/w   11-/b   9-/b    17-/w    |15886629
+14 Mazurek Maciej          4k PL  Wroc  10=  3    10   59=  357  0=      11+/w   13-/b   17+/b   15+/b   5-/w     |14786574
+15 Skibinski Pawel         4k PL  Krak  9    2    9    57   329= 13-/b   16+/w   11-/b   18+/b   14-/w   19-/w    |14813436
+16 Cieslak Wojciech        6k PL  Kosz  9    4    9    53   299= 18+/w   15-/b   20+/w   19+/b   17+/w   11-/w    |15474052
+17 Libront Dawid           4k PL  Bydg  9=   1    8    50=  303= 0=      0=      0=      14-/w   16-/b   13+/b    |15698287
+18 Skibinska Paulina       6k PL  Pozn  8    3    8    46=  262  16-/b   21+/w   22+/b   15-/w   19-/w   20+/b    |15062674
+19 Gutkowski Marek         6k PL  Wars  8=   2    7    41   246= 0=      0=      0=      16-/w   18+/b   15+/b    |12086173
+20 Bugaj Antoni            8k PL  Wars  7    4    7    40   237  22+/b   23+/w   16-/b   21+/b   25+/b   18-/w    |17898078
+21 Bugaj Robert            8k PL  Wars  7    4    7    35   216  23+/b   18-/b   25+/w   20-/w   22+/w   26+/b    |13437017
+22 Klimczak Mariusz        8k PL  Bydg  6    3    6    36   213  20-/w   25+/b   18-/w   23+/b   21-/b   27+/b    |16586614
+23 Grab Maksymilian        8k PL  Lubl  6    3    6    31   192= 21-/w   20-/b   27+/b   22-/w   28+/w   25+/b    |16598054
+24 Swietek Michal         10k PL  Krak  5=   4    5    15   121= 25-/w   31+/w   34+/b   26+/w   0=      32+/b    |18262607
+25 Malinowski Marcin       9k PL  Tuch  4    2    4    35=  182  24+/b   22-/w   21-/b   27+/b   20-/w   23-/w    |12825813
+26 Milkowski Jakub        10k PL  Zory  4    3    4    27   127  29+/b   27-/w   28+/w   24-/b   30+/b   21-/w    |17937370
+27 Mazur Michal           10k PL  Bial  4    3    4    25   173  28+/b   26+/b   23-/w   25-/w   31+/b   22-/w    |18050109
+28 Mroczek Marcel         10k PL  Krak  3    2    3    21   132= 27-/w   32+/w   26-/b   34+/b   23-/b   29-/w    |18374048
+29 Dudek Maria            10k PL  Krak  3    2    3    19   108= 26-/w   33-/b   31+/b   30-/w   32-/w   28+/b    |16501056
+30 Tokarski Filip         10k PL  Wars  4=   2    3    12   86=  0=      0=      0=      29+/b   26-/w   31+/w    |17537652
+31 Chojnacki Piotr        11k PL  Bydg  2    2    2    22=  97   33+/w   24-/b   29-/w   32+/b   27-/w   30-/b    |14225497
+32 Kolodziej Marta        13k PL  Wars  2    2    2    19   96   34+/w   28-/b   33-/b   31-/w   29+/b   24-/w    |17913258
+33 Malkiewicz Cezary      11k PL  Toru  3=   2    2    7    60=  31-/b   29+/w   32+/w   0=      0=      0=       |17237407
+34 Chlebowicz January     15k PL  Manc  2    1    1    11=  66=  32-/b   0+      24-/w   28-/w   0=      0=       |17925908
+
+
+

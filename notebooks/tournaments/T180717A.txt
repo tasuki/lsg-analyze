@@ -1,0 +1,39 @@
+; TC[T180717A]
+; CL[A]
+; EV[Summer Go School Marathon]
+; PC[PL, Przystanek Alaska]
+; DT[2018-07-17,2018-07-20]
+; HA[h9]
+; KM[6.5]
+; TM[105]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Fraczak Pawel              1k PL  Wars  14   3    14   53=  205  5+/b    2+/b    4+/w    3-/w     |14650768
+ 2 Walaszewski Maksym         2d PL  Bydg  14   3    14   52   207  3+/b    1-/w    8+/b    5+/w     |15050673
+ 3 Chmielewski Artur          1d PL  Star  14   3    14   52   206  2-/w    7+/b    6+/w    1+/b     |15350841
+ 4 Cieslak Karol              1d PL  Kosz  13=  2    13   49   198= 0=      8+/w    1-/b    6+/b     |14649228
+ 5 Frejlak Jan                1d PL  Wars  12   1    12   52   206  1-/w    6-/w    7+/b    2-/b     |12801591
+ 6 Sokol Marcin               1k PL  Krak  12   1    12   51=  202  7-/w    5+/b    3-/b    4-/w     |14398516
+ 7 Skibinski Pawel            4k PL  Krak  12   2    12   49   196  6+/b    3-/w    5-/w    9+/w     |14813436
+ 8 Stepnowski Pawel           1k PL  Wroc  12   0    11   49=  189  0=      4-/b    2-/w    0=       |14313134
+ 9 Warniello Tomasz           6k PL  Bial  11   3    11   40=  164= 10+/w   13+/b   11+/w   7-/b     |18774932
+10 Szelag Mateusz             7k PL  Wroc  10   3    10   38=  149  9-/b    12+/b   13+/w   11+/b    |15886365
+11 Cieslak Wojciech           5k PL  Kosz  10   0    9    39   151  0=      0=      9-/b    10-/w    |15474052
+12 Kwietniewska Daria         8k PL  Wroc  9    3    9    31=  135= 15+/b   10-/w   16+/w   13+/b    |16062684
+13 Kawczynski Adam            6k PL  Lodz  8=   0    8    38   142= 0=      9-/w    10-/b   12-/w    |15325189
+14 Chojnacka Marcelina        8k PL  Bydg  9    2    8    25   107  0=      0=      15+/w   16+/b    |14398802
+15 Chlebowicz January         9k PL  Manc  7    2    7    29   108= 12-/w   16+/b   14-/b   17+/w    |17925908
+16 Mazur Michal               9k PL  Bial  6    1    6    30   107= 17+/b   15-/w   12-/b   14-/w    |18050109
+17 Chojnacki Piotr           11k PL  Bydg  5    2    5    22   85   16-/w   18+/b   19+/b   15-/b    |14225497
+18 Dziezyc Marcin            12k PL  Wars  5    3    5    13   61   20+/b   17-/w   23+/b   21+/w    |18750864
+19 Biernot Ewa               13k PL  Pozn  4    3    4    13   61   21+/w   20+/b   17-/w   23+/w    |18398402
+20 Kolodziej Marta           12k PL  Wars  3    1    3    13   49   18-/w   19-/w   21-/b   24+/b    |17913258
+21 Szustakiewicz Mikolaj     13k PL  Wroc  3    2    3    13   49   19-/b   24+/w   20+/w   18-/b    |17486821
+22 Cylwik Robert             17k PL  Bial  3    3    3    6    35   23-/b   0+      24+/w   25+/w    |18298610
+23 Stasinski Jakub           15k PL  Pozn  2    2    2    13   38   22+/w   25+/b   18-/w   19-/b    |16733596
+24 Doruch Cyprian            16k PL  Wroc  1    1    1    10   38   25+/w   21-/b   22-/b   20-/w    |18725927
+25 Kepowicz Dariusz          18k PL  Wroc  1    1    1    6    35   24-/b   23-/w   0+      22-/b    |18413351
+
+
+
+

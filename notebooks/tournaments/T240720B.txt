@@ -1,0 +1,49 @@
+; TC[T240720B]
+; CL[A]
+; EV[Summer Go School - Marcelina Chojnacka memorial]
+; PC[PL, Przystanek Alaska]
+; DT[2024-07-20,2024-07-21]
+; HA[h9]
+; KM[6.5]
+; TM[75]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Kay Andrew             4d UK  Swan  25   6    25   129= 798= 4+/w    2+/b    5+/w    3+/b    8+/b    9+/b     |14613720
+ 2 Welticke Jonas         6d DE  BN    24   5    24   132= 789= 6+/b    1-/w    4+/w    5+/b    3+/w    8+/b     |15786287
+ 3 Walaszewski Maksym     3d PL  Bydg  22   3    22   135  767= 5-/w    11+/b   6+/w    1-/w    2-/b    4+/b     |15050673
+ 4 Majka Marcin           4d PL  Wroc  22   3    22   134= 781= 1-/b    9+/w    2-/b    7+/b    5+/w    3-/w     |14713413
+ 5 Fraczak Jan            3d PL  Wars  21=  2    21   134  767  3+/b    7+/w    1-/b    2-/w    4-/b    0=       |16298964
+ 6 Bugaj Antoni           2d PL  Wars  22   2    21   123  746= 2-/w    8+/w    3-/b    10+/b   0=      0=       |17898078
+ 7 Lew Lukasz             2d PL  Ziel  22   2    21   121= 759  9+/w    5-/b    8+/b    4-/w    0=      0=       |12913120
+ 8 Szychowiak Marianna    1k PL  Bydg  20   2    20   133= 749= 11+/w   6-/b    7-/w    9+/b    1-/w    2-/w     |16725709
+ 9 Fraczak Pawel          1d PL  Wars  20   1    20   129  743= 7-/b    4-/b    13-/w   8-/w    10+/b   1-/w     |14650768
+10 Blumberg Klaus         3k DE  BS    19   3    19   117= 685  15+/b   16+/w   14+/b   6-/w    9-/w    12-/w    |10486124
+11 Stieglitz Robin        1k FR  38Gr  20=  1    19   114  702  8-/b    3-/w    0=      14+/w   0=      0=       |17813268
+12 Siwy Adam              3k PL  Szcz  19   3    19   113= 641  16+/w   13-/b   15-/w   18+/b   14-/w   10+/b    |19725508
+13 Barcicki Tymoteusz     2k PL  Pozn  21   2    19   107  650= 0=      12+/w   9+/b    0=      0=      0=       |18737928
+14 Doruch Cyprian         4k PL  Wroc  18   3    18   109= 634= 17+/w   19+/b   10-/w   11-/b   12+/b   18-/w    |18725927
+15 Koscinski Zbigniew     3k PL  Krak  19=  2    18   104  620= 10-/w   17+/b   12+/b   0=      0=      0=       |10998713
+16 Milkowski Jakub        2k PL  Krak  19   0    17   106  639  12-/b   10-/b   0=      0=      0=      0=       |17937370
+17 Rzepnikowski Piotr     3k PL  Gost  18   0    16   101= 597= 14-/b   15-/w   0=      0=      0=      0=       |16049682
+18 Bandach Lukasz         5k PL  Lomz  17   2    16   97   561  21-/b   0=      19+/w   12-/w   0=      14+/b    |16213197
+19 Kowalski Marek         7k PL  Pozn  16   4    16   91   512  20+/b   14-/w   18-/b   25+/b   22+/w   23+/b    |20174517
+20 Klimczak Mariusz       7k PL  Bydg  14   2    14   84   434  19-/w   21-/b   22+/w   24-/b   23-/w   29+/b    |16586614
+21 Bugaj Robert           7k PL  Wars  16   2    14   79   469  18+/w   20+/w   0=      0=      0=      0=       |13437017
+22 Flach Michal           9k PL  Krak  14   4    14   72   414= 25+/w   26+/w   20-/b   31+/b   19-/b   30+/w    |20401029
+23 Wlodarski Przemyslaw   7k PL  Wars  15   1    13   78   463  0=      0=      0=      0=      20+/b   19-/w    |14074049
+24 Balaban Marcin         8k PL  Tych  15   2    13   71   421  26+/b   0=      0=      20+/w   0=      0=       |13925153
+25 Bugaj Joanna           9k PL  Joze  13   2    12   71=  395= 22-/b   28+/b   27+/w   19-/w   0=      0=       |14962849
+26 Lacny Maciej           8k PL  Ziel  13   0    11   73   407  24-/w   22-/b   0=      0=      0=      0=       |20449176
+27 Lacna Weronika        10k PL  Ziel  11   0    9    59=  340= 28-/w   0=      25-/b   0=      0=      0=       |20462178
+28 Wesolek Przemyslaw    12k PL  Pozn  10=  2    9    53   309= 27+/b   25-/w   31+/w   0=      0=      0=       |12062468
+29 Szopa Ryszard         15k PL  Wars  8    4    8    43   261  34+/b   31+/w   30+/b   36+/w   33-/b   20-/w    |20125457
+30 Barcicki Kacper       13k PL  Pozn  8    2    8    42=  239= 31-/b   33-/w   29-/w   37+/b   36+/w   22-/b    |19850039
+31 Bugaj Zofia           13k PL  Joze  8    1    7    52=  282= 30+/w   29-/b   28-/b   22-/w   0=      0=       |18201546
+32 Szopa Rysio           17k PL  Wars  6    4    6    26   142= 33-/b   34-/w   0+      38+/w   35+/b   36+/b    |20137458
+33 Kaganiec Bartosz      18k PL  Krak  6    4    5    25   144  32+/w   30+/b   0=      39+/b   29+/w   0=       |20674236
+34 Szalecka Martyna      17k PL  Krak  4    2    4    26   155  29-/w   32+/b   36-/b   35-/w   38-/b   39+/w    |19850941
+35 Jadach Bruno          20k PL  Szcz  4    4    4    20=  140  0+      36-/b   39+/w   34+/b   32-/w   37+/w    |20486180
+36 Kolinska Natalia      26k PL  Bydg  3    3    3    31   178= 39+/b   35+/w   34+/w   29-/b   30-/b   32-/w    |19301854
+37 Yu Alvin              18k UK  xxxx  3=   1    2    16   101= 0=      0=      0=      30-/w   39+/b   35-/b    |20633250
+38 Stupska Julia         18k UK  xxxx  4    1    2    14   76   0=      0=      0=      32-/b   34+/w   0=       |20601251
+39 Szalecki Kamil        30k PL  Krak  1    1    1    20=  139  36-/w   0+      35-/b   33-/w   37-/w   34-/b    |20437186

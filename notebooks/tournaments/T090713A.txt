@@ -1,0 +1,22 @@
+; TC[T090713A]
+; CL[C]
+; EV[Summer Go School - beginners` tournament]
+; PC[PL, Przystanek Alaska]
+; DT[2009-07-13,2009-07-13]
+; HA[h0]
+; KM[6.5]
+; TM[47.5]
+; CM[ (submitted by krzysztof.grabowski)]
+;.
+;Pl     Name             Grade  Club     MM S  SOS  SOS   1.      2.      3.      4.
+;
+ 1 Manuszewski Krzysztof  10k PL  Biel  3    3    10   10   3+/w0  2-/w4  6+/w9  5+/w9   |15025274
+ 2 Bojar Olga             16k PL  Wars  3    3    9    9    9+/w7  1+/b4  5+/w9  3-/b4   |13601214
+ 3 Rapanowicz Grzegorz    12k PL  Scin  3    3    8    8    1-/b0  9+/w9  8+/w9  2+/w4   |15362974
+ 4 Ciombor Michal         20k PL  Krak  3    3    5    5    5-     10+/w1 7+/w1  8+/b2   |15462062
+ 5 Jaros Krzysztof        20k PL  Okup  2    2    11   11   4+     6+/b1  2-/b9  1-/b9   |15349972
+ 6 Mazurek Martyna        20k PL  Kosz  2    2    6    6    8+/b1  5-/w1  1-/b9  10+/w2  |14598012
+ 7 Manuszewski Michal     20k PL  Biel  2    2    5    5    10+    8-/b3  4-/b1  9+/b4   |15086280
+ 8 Dobek Jerzy            20k PL  Wars  1    1    10   10   6-/w1  7+/w3  3-/b9  4-/w2   |14349973
+ 9 Manuszewski Maciej     20k PL  Biel  1    1    8    8    2-/b7  3-/b9  10+/w4 7-/w4   |15074279
+10 Ciombor Karolina       20k PL  Krak  0    0    8    8    7-     4-/b1  9-/b4  6-/b2   |15474063

@@ -1,0 +1,43 @@
+; TC[T250712C]
+; CL[A]
+; EV[Summer Go School - Marcelina Chojnacka memorial]
+; PC[PL, Przystanek Alaska]
+; DT[2025-07-12,2025-07-13]
+; HA[h9]
+; KM[6.5]
+; TM[75]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Majka Marcin           4d PL  Wroc  25   5    25   139= 800= 5+/w    9-/b    2+/w    3+/b    4+/w    8+/b     |14713413
+ 2 Kay Andrew             5d UK  Swan  25   5    25   138  813  4+/b    3+/w    1-/b    6+/w    8+/w    7+/w     |14613720
+ 3 Drzystek Andrzej       1d NL  xxxx  24   4    24   136= 801= 7+/b    2-/b    4+/w    1-/w    6+/b    10+/w    |15350973
+ 4 Szychowiak Marianna    2d PL  Bydg  23   3    23   138  806= 2-/w    7+/b    3-/b    13+/w   1-/b    5+/w     |16725709
+ 5 Kielczykowski Adrian   1d PL  Wars  22   2    22   134  795= 1-/b    6-/w    10+/w   8-/b    7+/b    4-/b     |19725937
+ 6 Siwy Adam              1k PL  Szcz  22=  3    22   130= 779  0=      5+/b    7+/w    2-/b    3-/w    14+/b    |19725508
+ 7 Fraczak Pawel          1d PL  Wars  21   1    21   136= 789= 3-/w    4-/w    6-/b    11+/b   5-/w    2-/b     |14650768
+ 8 Lew Lukasz             2d PL  Ziel  22=  1    21   132  771= 0=      0=      0=      5+/w    2-/b    1-/w     |12913120
+ 9 Barcicki Tymoteusz     1k PL  Pozn  23   2    21   122  717= 13+/b   1+/w    0=      0=      0=      0=       |18737928
+10 Flach Michal           4k PL  Krak  20   4    20   119  694  11+/b   14+/w   5-/b    18+/w   20+/b   3-/b     |20401029
+11 Blumberg Klaus         3k DE  BS    20   3    20   112= 673  10-/w   19+/b   16+/w   7-/w    14-/b   20+/b    |10486124
+12 Krause Karol           2k PL  Bydg  22   2    20   110  659  14+/w   15+/b   0=      0=      0=      0=       |15725721
+13 Stieglitz Robin        1k FR  38Gr  21   0    19   122  716  9-/w    0=      0=      4-/b    0=      0=       |17813268
+14 Doruch Cyprian         3k PL  Wroc  19=  2    19   120  681  12-/b   10-/b   15+/w   0=      11+/w   6-/w     |18725927
+15 Bebenek Jaroslaw       4k PL  Wars  18=  1    17   107  613  17+/b   12-/w   14-/b   0=      0=      0=       |13886378
+16 Tomczyk Marcin         3k PL  Lodz  19=  0    17   105  622= 0=      0=      11-/b   0=      0=      0=       |14001691
+17 Mazur Michal           6k PL  Bial  17=  3    17   95   550  15-/w   21+/b   18-/b   19+/w   22+/w   0=       |18050109
+18 Klimczak Mariusz       8k PL  Bydg  17   5    17   93   533= 21+/b   24+/b   17+/w   10-/b   19+/w   22+/w    |16586614
+19 Szymanski Konrad       6k PL  Szcz  16   2    16   94=  525= 20-/w   11-/w   25+/b   17-/b   18-/b   23+/w    |20625605
+20 Kowalski Marek         6k PL  Pozn  16=  1    15   98   578  19+/b   0=      0=      0=      10-/w   11-/w    |20174517
+21 Gonzalez Iago          7k ES  LDNB  15   0    13   86=  500  18-/w   17-/w   0=      0=      0=      0=       |20162362
+22 Lacny Maciej           8k PL  Ziel  14=  1    13   85   479= 0=      0=      0=      23+/w   17-/b   18-/b    |20449176
+23 Lacna Weronika         8k PL  Ziel  14=  1    13   75=  435  0=      0=      0=      22-/b   26+/w   19-/b    |20462178
+24 Szopa Ryszard         13k PL  Wars  10   2    9    53=  305  25-/b   18-/w   0=      28+/w   27+/b   0=       |20125457
+25 Barcicki Kacper       14k PL  Pozn  9    3    9    51=  292  24+/w   26+/b   19-/w   27-/b   28+/b   29-/w    |19850039
+26 Szopa Rysio           14k PL  Wars  9    3    9    39=  245= 33+/b   25-/w   27-/w   29+/b   23-/b   30+/w    |20137458
+27 Ligienza Jakub        15k PL  Wroc  9    3    8    42=  238= 0=      28+/w   26+/b   25+/w   24-/w   0=       |20401931
+28 Olbryk Oliwia         18k PL  Wroc  4=   2    4    34   207= 0=      27-/b   30+/w   24-/b   25-/w   33+/b    |20598028
+29 Jadach Bruno          20k PL  Szcz  3    3    3    28   173  30-/b   0+      33+/w   26-/w   32-/w   25+/b    |20486180
+30 Kolinska Natalia      20k PL  Bydg  3    3    3    25   137  29+/w   33+/w   28-/b   32-/b   31+/b   26-/b    |19301854
+31 Burzynska Natalia     30k PL  xxxx  3=   2    2    6=   54=  0=      0=      0=      33+/b   30-/w   0+       |20898053
+32 Chroboczek Jacek      20k PL  xxxx  4    2    2    6    53   0=      0=      0=      30+/w   29+/b   0=       |16250674
+33 Warzeszak Agnieszka   30k PL  Wroc  1    1    1    23   156  26-/w   30-/b   29-/b   31-/w   0+      28-/w    |20886052

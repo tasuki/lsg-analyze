@@ -1,0 +1,47 @@
+; TC[T190812A]
+; CL[B]
+; EV[Summer Go School Entrance Tournament]
+; PC[PL, Przystanek Alaska]
+; DT[2019-08-12,2019-08-12]
+; HA[h9]
+; KM[6.5]
+; TM[55]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Fraczak Jan            1d PL  Wars  22   3    22   86   329  5+/w    7+/b    2+/b    3-/w     |16298964
+ 2 Majka Marcin           4d PL  Wroc  22   3    22   84   335  3+/b    10+/w   1-/w    4+/b     |14713413
+ 3 Walaszewski Maksym     3d PL  Bydg  22   3    22   84   331  2-/w    6+/b    8+/w    1+/b     |15050673
+ 4 Jurkiewicz Dawid       2d PL  Szcz  21   2    21   85   324  7-/b    5+/b    9+/w    2-/w     |15650283
+ 5 Fraczak Pawel          1k PL  Wars  21   2    21   80   322= 1-/b    4-/w    13+/w   11+/b    |14650768
+ 6 Bednarczyk Dariusz     3k PL  Pozn  20   2    20   82   322  8+/b    3-/w    10+/b   9-/b     |14037826
+ 7 Kay Andrew             4d UK  Bmhm  21   1    20   81   323  4+/w    1-/w    0=      0=       |14613720
+ 8 Obrok Pawel            3k PL  Krak  20   2    20   79   323= 6-/w    13+/w   3-/b    10+/b    |13686750
+ 9 Chmielewski Artur      1d PL  Star  21   1    20   79   319  0=      0=      4-/b    6+/w     |15350841
+10 Effenberg Alfred       3k AT  Wien  19   1    19   80   317  16+/w   2-/b    6-/w    8-/w     |10213896
+11 Szelag Mateusz         5k PL  Wroc  19   3    19   74   291= 14+/w   16+/b   15+/w   5-/w     |15886365
+12 Libront Dawid          5k PL  Bydg  19=  3    19   68   284= 17+/w   15+/b   0=      13+/b    |15698287
+13 Paar Kurt              4k AT  Wien  18   1    18   77=  300= 15+/w   8-/b    5-/b    12-/w    |10286936
+14 Dziezyc Marcin         5k PL  Wars  18   2    18   66   255= 11-/b   17-/b   19+/w   18+/b    |18750864
+15 Warniello Tomasz       4k PL  Bial  17   0    17   73=  289  13-/b   12-/w   11-/b   17-/w    |18774932
+16 Palej Malgorzata       4k PL  Krak  18   0    17   72   290  10-/b   11-/w   0=      0=       |13925032
+17 Milkowski Jakub        6k PL  Krak  17   2    17   69=  267= 12-/b   14+/w   18-/w   15+/b    |17937370
+18 Mazur Michal           9k PL  Bial  15   3    15   60   232= 19+/b   20+/w   17+/b   14-/w    |18050109
+19 Chojnacka Marcelina    8k PL  Bydg  15   2    15   52   205= 18-/w   21+/b   14-/b   20+/w    |14398802
+20 Wojnarowski Lukasz    13k PL  Pozn  10   2    10   45   171= 21+/w   18-/b   22+/b   19-/b    |18425935
+21 Cylwik Robert         13k PL  Bial  9    1    9    34=  137  20-/b   19-/w   24+/w   22-/b    |18298610
+22 Barcicki Tymoteusz    18k PL  Pozn  6    3    6    25   106  25+/b   26+/w   20-/w   21+/w    |18737928
+23 Tytus Aleksander      20k PL  Gorz  4    4    4    10   45   27+/w   31+/b   29+/b   25+/w    |19337846
+24 Olejniczak Stanislaw  20k UK  Hunt  3=   2    3    15   63=  0=      29+/w   21-/b   26+/b    |19349847
+25 Seget Anna            20k PL  Pozn  3    2    3    14   52=  22-/w   28+/w   32+/b   23-/b    |19298158
+26 Sliwicki Michal       20k PL  Krak  3    2    3    12=  59   32+/b   22-/b   30+/w   24-/w    |19362849
+27 Wajda Wojtek          20k PL  Gorz  3    3    3    9=   34   23-/b   34+/w   31+/w   30+/b    |19374850
+28 Papaj Ludwik          20k PL  NDMa  3    3    3    7=   37   37+/w   25-/b   33+/w   29+/w    |19386851
+29 Zebrowska Joanna      20k PL  Bial  2    1    2    12=  41=  30+/w   24-/b   23-/w   28-/b    |19298631
+30 Karczewska Izabela    20k PL  Pozn  2    1    2    9    44=  29-/b   32+/w   26-/b   27-/w    |19398852
+31 Papaj Grzegorz        20k PL  NDMa  2    2    2    9    37   33+/b   23-/w   27-/b   32+/w    |19325845
+32 Kolinski Leszek       20k PL  Bydg  1    0    1    10   44=  26-/w   30-/b   25-/w   31-/b    |19333853
+33 Kolinska Natalia      20k PL  Bydg  1    1    1    7=   25   31-/w   0+      28-/b   36-/w    |19301854
+34 Soczowa Magda         20k PL  Gdan  1=   1    1    6    17   0=      27-/b   0+      35-/w    |19325856
+35 Cielinski Nikodem     20k PL  Wroc  2=   1    1    1=   6    0=      0=      0=      34+/b    |19337857
+36 Przybylak Maria       20k PL  Gorz  2=   1    1    1    7=   0=      0=      0=      33+/b    |19350859
+37 Srul Klaudia          20k PL  Pozn  1=   0    0    3    7=   28-/b   0=      0=      0=       |19362860

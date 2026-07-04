@@ -1,0 +1,40 @@
+; TC[T200711B]
+; CL[A]
+; EV[Summer Go School - Jerzy Sacharewicz memorial]
+; PC[PL, Przystanek Alaska]
+; DT[2020-07-11,2020-07-12]
+; HA[h9]
+; KM[6.5]
+; TM[105]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Jurkiewicz Dawid       3d PL  Szcz  20   5    20   88   429  3+/w    2+/b    5+/b    4+/w    9+/b     |15650283
+ 2 Walaszewski Maksym     3d PL  Bydg  19   4    19   87   434= 4+/b    1-/w    6+/b    9+/w    3+/b     |15050673
+ 3 Fraczak Jan            2d PL  Wars  17   2    17   89   424  1-/b    5-/w    7+/b    6+/w    2-/w     |16298964
+ 4 Leszczynski Grzegorz   1k PL  Wars  17=  2    17   86   416  2-/w    7+/b    0=      1-/b    6+/w     |14033734
+ 5 Kay Andrew             4d UK  Bmhm  18   2    17   83   414= 6+/w    3+/b    1-/w    0=      0=       |14613720
+ 6 Fraczak Pawel          1k PL  Wars  16   1    16   87=  419  5-/b    8+/w    2-/w    3-/b    4-/b     |14650768
+ 7 Bednarczyk Dariusz     3k PL  Pozn  16   3    16   78=  391  8+/b    4-/w    3-/w    10+/w   13+/b    |14037826
+ 8 Drzystek Andrzej       2k PL  Wars  16   2    16   74   376= 7-/w    6-/b    10+/b   13-/b   11+/w    |15350973
+ 9 Chojnacki Mateusz      1d PL  Wroc  16=  0    15   84   400  0=      0=      0=      2-/b    1-/w     |14237498
+10 Bogdziewicz Tomasz     5k PL  Pozn  14   3    14   72   347= 11+/b   12+/w   8-/w    7-/b    15+/b    |17913907
+11 Milkowski Jakub        5k PL  Krak  14   3    14   68=  334= 10-/w   19+/w   12+/b   14+/w   8-/b     |17937370
+12 Blumberg Klaus         5k DE  BS    14   3    14   65   331= 13+/w   10-/b   11-/w   20+/b   14+/b    |10486124
+13 Libront Dawid          4k PL  Bydg  14   1    13   70   337= 12-/b   0=      0=      8+/w    7-/w     |15698287
+14 Doruch Cyprian         6k PL  Wroc  13   3    13   65=  309  15+/b   17+/w   16+/w   11-/b   12-/w    |18725927
+15 Schultze Achim         5k DE  Goet  12   1    12   61=  297= 14-/w   16-/b   17-/b   23+/b   10-/w    |10474739
+16 Okonkwo Jeoman         6k PL  Pozn  12=  2    12   57=  281= 22+/w   15+/w   14-/b   18-/b   0=       |18386401
+17 Skibinska Paulina      6k PL  Pozn  13   2    12   56=  285  19+/b   14-/b   15+/w   0=      0=       |15062674
+18 Kawczynski Adam        7k PL  Lodz  12   3    12   53   259  20-/w   22+/b   23-/b   16+/w   21+/w    |15325189
+19 Kaskow Wojciech        6k PL  Szcz  11=  1    11   58   279  17-/w   11-/b   20+/b   21-/b   0=       |16201526
+20 Bednarska Julia        8k PL  Toru  10   2    10   55=  259  18+/b   23+/w   19-/w   12-/w   24-/b    |16733706
+21 Chojnacka Marcelina    8k PL  Bydg  11   2    10   48=  228  0=      0=      24+/b   19+/w   18-/b    |14398802
+22 Kwietniewska Daria     7k PL  Wroc  10=  0    9    51=  245= 16-/b   18-/w   0=      0=      0=       |16062684
+23 Barcicki Tymoteusz    10k PL  Pozn  9    3    9    46   235  24+/b   20-/b   18+/w   15-/w   26+/b    |18737928
+24 Mroczek Marcel        10k PL  Krak  9    3    9    37   197= 23-/w   26+/b   21-/w   25+/b   20+/w    |18374048
+25 Tytus Aleksander      15k PL  Gorz  4    3    4    19=  100  26-/w   29+/b   30+/w   24-/w   27+/b    |19337846
+26 Kluziak Maria         14k PL  Krak  3    1    3    28   129= 25+/b   24-/w   27-/w   28-/b   23-/w    |19525913
+27 Kozlowski Samuel      20k PL  Gdan  3    3    3    14=  80=  29-/w   28+/b   26+/b   30+/w   25-/w    |19537914
+28 Wajda Wojciech        20k PL  Gorz  3    3    3    12=  75=  30+/b   27-/w   29-/w   26+/w   0+       |19374850
+29 Opawski Jan           18k PL  Wars  3    2    2    10   46=  27+/b   25-/w   28+/b   0=      0=       |19598832
+30 Szkatulski Artur      20k PL  Pozn  1=   1    1    10=  57   28-/w   0+      25-/b   27-/b   0=       |19533921

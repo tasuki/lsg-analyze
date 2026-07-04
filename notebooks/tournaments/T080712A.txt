@@ -1,0 +1,24 @@
+; CL[A]
+; EV[Polish Students Championship]
+; PC[PL, Przystanek Alaska]
+; DT[2008-07-12,2008-07-13]
+; HA[h9]
+; KM[6.5]
+; TM[80]
+;
+  1 Zyzak Andrzej           4d PL Wodz  5 5  16  71  10+  5+  2+  3+  4+ |10949763
+  2 Sosnicka Anna           2k PL Szcz  4 4  15  68   7+  9+  1-  6+  8+ |13925769
+  3 Langner Michal          2d PL Gdan  4 4  15  66  13+ 11+  4+  1-  7+ |12562495
+  4 Hausner Michal          1k PL Wars  3 3  15  69   8+ 12+  3-  9+  1- |14074357
+  5 Gertz Wojciech          1k PL Krak  3 3  14  62  14+  1-  6- 10+ 11+ |13933029
+  6 Chojnacki Mateusz       1k PL Bydg  3 3  13  64  12- 13+  5+  2-  9+ |14237498
+  7 Kacprzyk Agnieszka      1k PL Bebn  3 3  13  63   2- 15+ 11+ 12+  3- |13625524
+  8 Cichuta Dawid           2k PL Krak  2 2  13  65   4- 10+  9- 13+  2- |13874168
+  9 Beltowska Katarzyna     3k PL Skar  2 2  13  65  15+  2-  8+  4-  6- |13013968
+ 10 Cieslak Karol           5k PL Kosz  2 2  12  61   1-  8- 16+  5- 14+ |14649228
+ 11 Barcicki Artur          6k PL Pozn  2 2  12  60  16+  3-  7- 14+  5- |14637227
+ 12 Dyszczyk Przemyslaw     2k PL Lubl  2 2  12  59   6+  4- 14-  7- 15+ |13649218
+ 13 Slusarczyk Wojciech     10 PL Pozn  2 2  10  59   3-  6- 15+  8- 16+ |14533486
+ 14 Bednarczyk Dariusz      9k PL Pozn  2 2   9  59   5- 16+ 12+ 11- 10- |14037826
+ 15 Sontowska Aleksandra    7k PL Gdan  1 1   9  57   9-  7- 13- 16+ 12- |14513983
+ 16 Byczyk Karolina         15 PL Pozn  0 0   9  52  11- 14- 10- 15- 13- |14937351

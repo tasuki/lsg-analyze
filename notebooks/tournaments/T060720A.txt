@@ -1,0 +1,33 @@
+; CL[A]
+; EV[Polish Students Championship]
+; PC[PL, Przystanek Alaska]
+; DT[2006-07-20,2006-07-21]
+; HA[h9]
+; KM[6.5]
+; TM[75]
+;
+  1 Chwedyna Kamil          2d PL Kedz 10 5  49 289   4+/w  3-/b  7+/b  8+/w  2+/w  5+/b |13513786
+  2 Gasiorowski Michal      1k PL Wars  9 4  51 276   8+/b  5+/w  3+/b  4+/w  1-/b  6-/b |13586947
+  3 Zyzak Andrzej           2d PL Wodz  9 4  48 278   9+/b  1+/w  2-/w  7+/w  4-/b 10+/w |10949763
+  4 Slazok Tomasz           1d PL Radz  9 4  47 273   1-/b 19+/w  5+/b  2-/b  3+/w  7+/w |13049432
+  5 Kaminski Marek          1d PL Walb  8 3  48 286   7+/w  2-/b  4-/w 10+/b  8+/b  1-/w |13913823
+  6 Andryszek Piotr         3k PL Krak  8 4  39 248  11+/w  7-/b 10-/b 14+/w 12+/b  2+/w |13749219
+  7 Parkola Michal          2d PL Wars  7 2  50 275   5-/b  6+/w  1-/w  3-/b 10+/w  4-/b |12833458
+  8 Mos Ewa                 2k PL Byto  7 2  45 251   2-/w 11+/b  9+/b  1-/b  5-/w  0=   |13533047
+  9 Jachym Radoslaw         2d PL Tych  7 1  37 227   3-/w 10+/b  8-/w  0=    0=    0=   |13074435
+ 10 Kacprzyk Agnieszka      3k PL Bebn  6 2  44 255  14+/b  9-/w  6+/w  5-/w  7-/b  3-/b |13625524
+ 11 Gertz Wojciech          1k PL Krak  6 0  36 208   6-/b  8-/w  0=   12-/w  0=    0=   |13933029
+ 12 Polonis Pawel           5k PL Gdan  6 4  34 196  13+/b 14-/w 18+/w 11+/b  6-/w 15+/b |13598728
+ 13 Kacprzyk Michal         5k PL Bebn  6 4  29 164  12-/w 15-/b 21+/w 17+/b 16+/b 18+/b |13613523
+ 14 Jedynak Wojciech        4k PL Dlug  5 2  33 191  10-/w 12+/b 16+/w  6-/b 15-/w  0=   |13633697
+ 15 Kowalski Dominik        6k PL Zgie  5 4  30 176  17-/w 13+/w 19+/b 18+/b 14+/b 12-/w |13450921
+ 16 Sobanski Grzegorz       6k PL Pozn  5 4  26 156  20+/w 17+/b 14-/b 19+/w 13-/w 23+/b |13062698
+ 17 Janyst Karol            6k PL Wars  5 4  24 148  15+/b 16-/w 23+/b 13-/w 24+/w 20+/b |13837813
+ 18 Wlodarski Przemyslaw    5k PL Wars  4 2  29 158  19-/b 21+/w 12-/b 15-/w 22+/b 13-/w |14074049
+ 19 Bugalski Lukasz         5k PL Gdan  4 1  27 156  18+/w  4-/b 15-/w 16-/b  0=    0=   |13533718
+ 20 Beltowska Katarzyna     6k PL Skar  4 3  22 129  16-/b 22-/w 24+/b 21+/w 23+/b 17-/w |13013968
+ 21 Pyzalski Szymon         6k PL Pozn  4 3  21 130  25+/w 18-/b 13-/b 20-/b  0+   24+/w |12833810
+ 22 Musielak Krystyna       9k PL Pozn  4 4  17 118  24-/w 20+/b 25+/b 23+/w 18-/w  0+   |13698916
+ 23 Wroclawski Stefan       11 PL Soch  2 2  21 130   0+   24+/b 17-/w 22-/b 20-/w 16-/w |13901569
+ 24 Krauze Monika           10 PL Krak  2 2  20 125  22+/b 23-/w 20-/w  0+   17-/b 21-/b |13925230
+ 25 Kochanowska Elzbieta    11 PL Bebn  2 1   9  47  21-/b  0+   22-/w  0=    0=    0=   |14062015

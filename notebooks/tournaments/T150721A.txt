@@ -1,0 +1,33 @@
+; TC[T150721A]
+; CL[A]
+; EV[Summer Go School - Jerzy Sacharewicz memorial]
+; PC[PL, Przystanek Alaska]
+; DT[2015-07-21,2015-07-22]
+; HA[h9]
+; KM[6.5]
+; TM[105]
+; CM[ (submitted by kamyszyn)]
+;.
+;memorial
+ 1 Surma Mateusz           1p PL  Dzim  40   6    220= 1318 8+/w    3+/b    6+/b    7+/w    2+/w    5+/b     |12837968
+ 2 Majka Marcin            3d PL  Wroc  38   4    222= 1321 4+/b    6-/w    3+/w    8+/b    1-/b    7+/w     |14713413
+ 3 Fraczak Pawel           2k PL  Wars  37   4    218= 1268 9+/w1   1-/w    2-/b    10+/w1  4+/b    8+/w     |14650768
+ 4 Sliwinski Rafal         1k PL  Gdan  37   3    217  1299= 2-/w    8+/b    7-/b    6+/w    3-/w    11+/w1   |16333801
+ 5 Fraczak Jan             1k PL  Wars  37   1    212  443= 0=      0=      0=      0=      7+/b    1-/w     |16298964
+ 6 Cieslak Karol           1k PL  Kosz  36=  2    221  1104 7+/w    2+/b    1-/w    4-/b    8-/b    0=       |14649228
+ 7 Walaszewski Maksym      1k PL  Bydg  36   2    223  1286= 6-/b    11+/w2  4+/w    1-/b    5-/w    2-/b     |15050673
+ 8 Woskresinski Wojciech   1d PL  Lodz  36   2    221  1294 1-/b    4-/w    10+/b   2-/w    6+/w    3-/b     |10974260
+ 9 Bialozyt Adam           5k PL  Krak  33   3    192= 1119 3-/b1   10-/w   12+/b   11-/b   18+/w5  13+/w    |16586053
+10 Kulczycki Marcin        6k PL  Krak  32=  3    194= 998  13+/w   9+/b    8-/w    3-/b1   0=      14+/w    |14350512
+11 Libront Dawid           6k PL  Bydg  32=  3    193= 990  12+/b   7-/b2   16+/w   9+/w    0=      4-/b1    |15698287
+12 Bandach Lukasz          6k PL  Rzes  32   2    184  752  11-/w   13+/b   9-/w    14+/b   0=      0=       |16213197
+13 Walczak Piotr           6k PL  Bydg  30=  0    184= 571  10-/b   12-/w   0=      0=      0=      9-/b     |15786210
+14 Cieslak Wojciech        8k PL  Kosz  30   3    181= 991  17-/w2  16+/b   15+/w   12-/w   19+/w5  10-/b    |15474052
+15 Bojar Olga              8k PL  Wars  30   3    156= 860= 16-/w   17-/w1  14-/b   19+/w3  20+/w9  18+/w3   |13601214
+16 Szelag Mateusz          8k PL  Wroc  29=  1    173= 531= 15+/b   14-/w   11-/b   0=      0=      0=       |15886365
+17 Rudnicki Janusz        12k PL  Pola  28=  5    145= 698  14+/b2  15+/b1  18+/b   20+/w9  0=      19+/w4   |17598713
+18 Lopuszanski Kamil      14k PL  Rzes  24   3    144  854= 19+/b   20+/w9  17-/w   0+      9-/b5   15-/b3   |17562754
+19 Rymarowicz Pawel       15k PL  Otwo  22   2    137  843= 18-/w   0+      20+/w9  15-/b3  14-/b5  17-/b4   |16333735
+20 Dolska Joanna          20k PL  Pozn  6=   1    79   662  0+      18-/b9  19-/b9  17-/b9  15-/b9  0=       |17501715
+
+

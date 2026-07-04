@@ -1,0 +1,77 @@
+; CL[C]
+; EV[Summer Camp Entry Tournament]
+; PC[PL, Przystanek Alaska]
+; DT[2008-07-05]
+; HA[h9]
+; KM[6.5]
+; TM[45]
+;
+  1 Kuin Merlijn            6d NL Amvn 23 4  86 342   2+/w  8+/b  5+/w  3+/b |10233861
+  2 Brunner Vit             4d CZ Brn  22 3  86 338   1-/b 11+/w  8+/w  9+/b |12513842
+  3 Langner Michal          1d PL Gdan 22 3  85 340  16+/b  9+/w 10+/b  1-/w |12562495
+  4 Gertz Wojciech          1k PL Krak 22 3  83 329  17+/w  5-/b 12+/b 15+/b |13933029
+  5 Bozek Krzysztof         2d PL Kato 21 2  86 328  20+/b  4+/w  1-/b  6=/w |12874290
+  6 Wieczorek Wojciech      3d PL Zory 21 1  79 323   0=    0=   16+/w  5=/b |10325469
+  7 Frejlak Stanislaw       1d PL Wars 21 1  78 312   0=    0=    0=   10+/w |12837594
+  8 Straszewski Jakub       1k PL Wroc 21 2  85 335  18+/w  1-/w  2-/b 19+/b |12813625
+  9 Zyzak Andrzej           4d PL Wodz 21 2  85 334  13+/w  3-/b 17+/b  2-/w |10949763
+ 10 Kaczorowska Malgorzata  1k PL Wars 21 2  84 326  11+/b 19+/b  3-/w  7-/b |13050543
+ 11 Ouweleen Kim            1k NL Amvn 21 2  82 328  10-/w  2-/b 26+/w 18+/b |14633652
+ 12 Hausner Michal          2k PL Wars 21 3  80 323  25+/w 24+/b  4-/w 16+/b |14074357
+ 13 Sosnicka Anna           2k PL Szcz 21 3  79 329   9-/b 23+/w 24+/w 17+/w |13925769
+ 14 Czernecki Cezary        3k PL Bial 21 4  70 301  32+/b 33+/b 27+/w 29+/w |14813139
+ 15 Frejlak Jan             1d PL Wars 20 0  79 311   0=    0=    0=    4-/w |12801591
+ 16 Chojnacki Mateusz       1k PL Bydg 20 1  84 326   3-/w 18+/b  6-/b 12-/w |14237498
+ 17 Blumberg Klaus          1k DE BS 20 1  84 326   4-/b 20+/w  9-/w 13-/b |10486124
+ 18 Mex Gerd                2d DE GOE 20 1  82 326   8-/b 16-/w 22+/w 11-/w |10401105
+ 19 Sodek Dalibor           2k CZ FMi  20 2  81 325  23+/b 10-/w 21+/b  8-/w |12737043
+ 20 Janyst Karol            4k PL Wars 20 0  79 322   5-/w 17-/b  0=    0=   |13837813
+ 21 Lubos Przemyslaw        3k PL Wodz 20 3  76 313  26+/w 28+/b 19-/w 24+/w |12074260
+ 22 Pakosz Bogdan           3k PL Tych 20 3  75 315  27+/b 29+/w 18-/b 23+/w |12625690
+ 23 Dyszczyk Przemyslaw     2k PL Lubl 19 1  80 311  19-/w 13-/b 25+/w 22-/b |13649218
+ 24 Dziolak Krzysztof       2k PL Wars 19 1  80 311  28+/w 12-/w 13-/b 21-/b |14337653
+ 25 Kleczar Justyna         3k PL Cor  19 2  76 313  12-/b 27+/w 23-/b 28+/w |13886169
+ 26 Andryszek Piotr         3k PL Krak 19 2  76 304  21-/b 32+/w 11-/b 30+/b |13749219
+ 27 Palej Malgorzata        3k PL Krak 18 1  77 297  22-/w 25-/b 14-/b 32+/w |13925032
+ 28 Mazurek Katarzyna       2k PL Krak 18 0  76 308  24-/b 21-/w 29-/b 25-/b |13862167
+ 29 Lukasiewicz Michal      4k NL Amst 18 2  76 293  33+/w 22-/b 28+/w 14-/b |14798234
+ 30 Sobanski Grzegorz       5k PL Pozn 18 3  70 285  31+/w 34+/b 32+/b 26-/w |13062698
+ 31 Dlugosz Sylwia          5k PL Pozn 18 3  66 275  30-/b 36+/b 33+/w 34+/w |13550790
+ 32 Chwedyna Zaneta         3k PL Kedz 17 0  76 293  14-/w 26-/b 30-/w 27-/b |13574803
+ 33 Beltowska Katarzyna     4k PL Skar 17 1  72 278  29-/b 14-/w 31-/b 36+/b |13013968
+ 34 Dyszczyk Piotr          6k PL Lubl 16 2  67 259  36+/w 30-/w 35+/b 31-/b |13862035
+ 35 Iwanowski Artur         7k PL Lidz 16 3  57 239  37+/w 40+/b 34-/w 41+/b |14374965
+ 36 Barcicki Artur          6k PL Pozn 15 1  66 263  34-/b 31-/w 37+/b 33-/w |14637227
+ 37 Cieslak Karol           7k PL Kosz 15 2  58 237  35-/b 38+/b 36-/w 40+/w |14649228
+ 38 Lisiecki Bartlomiej     7k PL Zamo 14 1  55 225  40-/b 37-/w 41+/b 39-/w |14398967
+ 39 Zurek Jakub             9k PL Krak 14 3  53 214  41-/b 42+/w 40+/w 38+/b |14325971
+ 40 Warchol Tomasz          8k PL Wars 13 1  59 223  38+/w 35-/w 39-/b 37-/b |14749196
+ 41 Mistura Lukasz          9k PL Wars 13 2  55 215  39+/w 44+/b 38-/w 35-/w |15013251
+ 42 Zgirski Marcin          10 PL Gdan 13 3  44 179  46+/b 39-/b 45+/w 44+/w |15037253
+ 43 Manuszewski Krzysztof   10 PL Gdan 13 2  41 171   0=    0=   44+/w 46+/w |15025274
+ 44 Grabowski Lukasz        9k PL Gdan 11 0  50 185   0=   41-/w 43-/b 42-/b |13862156
+ 45 Lichy Marek             13 PL Toru 10 3  35 137  48+/b 46+/w 42-/b 47+/w |15037275
+ 46 Chojnacka Marcelina     12 PL Bydg  9 1  41 147  42-/w 45-/b 47+/w 43-/b |14398802
+ 47 Pyszczek Tymoteusz      16 PL Wroc  6 2  27 116  56+/w 48+/w 46-/b 45-/b |14949968
+ 48 Byczyk Karolina         15 PL Pozn  6 1  24  88  45-/w 47-/b 49-/b 51+/b |14937351
+ 49 Ciombor Krzysztof       18 PL Krak  5 3  12  58   0=   56+/b 48+/w 54+/b |14850429
+ 50 Ciombor Robert          19 PL Krak  3 2   7  41   0=   61+/b 51-/w 56+/b |14825437
+ 51 Pakosz Zuzanna          20 PL Tych  3 3  14  41  58+/w 53+/b 50+/b 48-/w |14037584
+ 52 Toporek Agata           20 PL Tych  3 3   7  28  59+/w  0+   54-/b 57+/b |14786629
+ 53 Ulkowska Justyna        20 PL Wars  3 3   6  30  60+/b 51-/w 57+/w 62+/b |15049276
+ 54 Czarniecka Ida          20 PL xxx   2 2  11  24   0=   55+/b 52+/w 49-/w |15062278
+ 55 Manuszewski Maciej      20 PL Gdan  2 2   4  26   0=   54-/w 62+/b 61+/w |15074279
+ 56 Bojar Olga              19 PL Wars  2 1  15  54  47-/b 49-/w 61+/b 50-/w |13601214
+ 57 Manuszewski Michal      20 PL Gdan  1 1   6  21   0=   62+/w 53-/b 52-/w |15086280
+ 58 Pakosz Alicja           20 PL Tych  1 0   3  14  51-/b  0=    0=    0=   |14574021
+ 59 Sokal Karolina          20 PL Tych  1 0   3   7  52-/b  0=    0=    0=   |14533024
+ 60 Sokal Mikolaj           20 PL Tych  1 0   3   6  53-/w  0=    0=    0=   |14598023
+ 61 Zgirska Sara            20 PL Brwi  1 1   8  34   0+   50-/w 56-/w 55-/b |15098281
+ 62 Nowicka Martyna         20 PL Gdan  0 0   7  17   0=   57-/b 55-/w 53-/w |15001283
+
+
+
+
+
+
+

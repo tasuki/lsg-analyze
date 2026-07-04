@@ -1,0 +1,41 @@
+; TC[T150715A]
+; CL[A]
+; EV[Summer Go School Marathon]
+; PC[PL, Przystanek Alaska]
+; DT[2015-07-15,2015-07-20]
+; HA[h9]
+; KM[6.5]
+; TM[105]
+; CM[ (submitted by kamyszyn)]
+;.
+;marathon
+ 1 Surma Mateusz            1p PL  Dzim  35=  6    224= 1352 4+/b    2+/w    3+/b    8+/w    6+/b    7+/w    0=      0=       |12837968
+ 2 Walaszewski Maksym       1k PL  Bydg  34   5    228  1566= 7+/w    1-/b    4-/b    9+/w    3+/b    8+/w    6+/w    5-/b     |15050673
+ 3 Majka Marcin             3d PL  Wroc  33   4    226= 1531 6+/w    8+/b    1-/w    11+/b   2-/w    9+/b    5-/w    7+/w     |14713413
+ 4 Frejlak Stanislaw        4d PL  Wars  33   2    217= 679  1-/w    7+/b    2+/w    0=      0=      0=      0=      0=       |12837594
+ 5 Fraczak Jan              1k PL  Wars  33   1    207  226= 0=      0=      0=      0=      0=      0=      3+/b    2+/w     |16298964
+ 6 Cieslak Karol            1k PL  Kosz  32   3    227  1534 3-/b    9+/w    8-/w    7+/b    1-/w    13+/w2  2-/b    0=       |14649228
+ 7 Sliwinski Rafal          1k PL  Gdan  32   3    226= 1526 2-/b    4-/w    10+/w   6-/w    11+/w   1-/b    8+/b    3-/b     |16333801
+ 8 Woskresinski Wojciech    1d PL  Lodz  31=  2    226= 1350= 0=      3-/w    6+/b    1-/b    9+/w    2-/b    7-/w    12-/w    |10974260
+ 9 Fraczak Pawel            2k PL  Wars  31   3    218  1479= 10+/w   6-/b    15+/w1  2-/b    8-/b    3-/w    19+/w2  20+/w3   |14650768
+10 Kaczorowska Malgorzata   2k PL  Wars  31   1    202= 634= 9-/b    15+/w   7-/b    0=      0=      0=      0=      0=       |13050543
+11 Jelowicki Patryk         3k PL  Kosz  29=  0    200  453  0=      0=      0=      3-/w    7-/b    0=      0=      0=       |15886629
+12 Kulczycki Marcin         6k PL  Krak  28=  2    172= 370  0=      0=      0=      0=      0=      16+/b   18+/w   8+/b     |14350512
+13 Libront Dawid            6k PL  Bydg  28   3    184  950  0=      0=      17+/b   15+/w   16-/w   6-/b2   20+/b   0=       |15698287
+14 Domanski Filip           7k PL  Wars  28   3    171  544= 16+/b   17+/w   18+/b   0=      0=      0=      0=      0=       |16949526
+15 Korczewski Lukasz        5k PL  Wars  27=  1    190  792= 18+/w   10-/b   9-/b1   13-/b   0=      0=      0=      0=       |16274049
+16 Szelag Mateusz           8k PL  Wroc  26=  4    182  1036= 14-/w   22+/w2  20+/b   19+/w   13+/b   12-/w   0=      0=       |15886365
+17 Gutkowski Marek          6k PL  Wars  26=  1    174= 641  27+/w9  14-/b   13-/w   18-/w   0=      0=      0=      0=       |12086173
+18 Bandach Lukasz           6k PL  Rzes  26   2    188  1229= 15-/b   19+/w   14-/w   17+/b   20-/w   21-/w1  12-/b   0=       |16213197
+19 Cieslak Wojciech         8k PL  Kosz  26   4    179  1226= 21+/w   18-/b   23+/w1  16-/b   22+/w2  20+/b   9-/b2   0=       |15474052
+20 Bojar Olga               8k PL  Wars  25=  3    176= 1041= 0=      21+/b   16-/w   23+/w1  18+/b   19-/w   13-/w   9-/b3    |13601214
+21 Kwietniewska Daria       8k PL  Wroc  25   2    166  817  19-/b   20-/w   22-/w2  0=      0=      18+/b1  24+/w   23+/w1   |16062684
+22 Krzywolak Anna          12k PL  Raci  22   4    153= 1060 23-/w1  16-/b2  21+/b2  25+/w1  19-/b2  26+/w3  0+      0=       |16937184
+23 Rudnicki Janusz         12k PL  Pola  22   4    142= 911= 22+/b1  25+/b   19-/b1  20-/b1  26+/w3  24-/w2  28+/w9  21-/b1   |17598713
+24 Lopuszanski Kamil       14k PL  Rzes  21=  5    120  689  0=      26+/w   25+/b   27+/w2  28+/w9  23+/b2  21-/b   0=       |17562754
+25 Rymarowicz Pawel        15k PL  Otwo  18=  3    122  674= 26+/b   23-/w   24-/w   22-/b1  27+/w4  28+/w9  0=      0=       |16333735
+26 Tokarski Filip          17k PL  Wars  15=  2    115  681= 25-/w   24-/b   27+/w1  28+/w9  23-/b3  22-/b3  0=      0=       |17537652
+27 Plec Mateusz            20k PL  xxxx  11=  1    98   675  17-/b9  28-/w9  26-/b1  24-/b2  25-/b4  0+      0=      0=       |17586756
+28 Dolska Joanna           20k PL  Pozn  2=   2    45=  643  0=      27+/b9  0+      26-/b9  24-/b9  25-/b9  23-/b9  0=       |17501715
+
+

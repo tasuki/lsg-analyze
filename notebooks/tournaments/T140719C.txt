@@ -1,0 +1,42 @@
+; TC[T140719C]
+; CL[A]
+; EV[Summer Go School - Jerzy Sacharewicz Memorial]
+; PC[PL, Przystanek Alaska]
+; DT[2014-07-19,2014-07-20]
+; HA[h9]
+; KM[6.5]
+; TM[105]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Frejlak Stanislaw       4d PL  Wars  29   6    155= 944= 10+/w   3+/w    2+/b    8+/b    5+/w    4+/w     |12837594
+ 2 Mex Gerd                1d DE  GOE   27   4    160  929= 4+/w    5+/b    1-/w    6+/b    3-/b    7+/w     |10401105
+ 3 Majka Marcin            3d PL  Wroc  27   4    159= 931= 8+/w    1-/b    7+/b    4+/b    2+/w    6-/w     |14713413
+ 4 Walaszewski Maksym      2k PL  Bydg  26   3    157= 934  2-/b    9+/w    10+/b   3-/w    8+/w    1-/b     |15050673
+ 5 Stepnowski Pawel         2k PL  Wroc  26   3    155= 926  6+/b    2-/w    8-/b    10+/w   1-/b    11+/b    |14313134
+ 6 Fraczak Pawel           2k PL  Wars  26   3    153= 915  5-/w    8-/b    14+/b   2-/w    9+/w    3+/b     |14650768
+ 7 Bednarczyk Dariusz      3k PL  Pozn  26   4    148  871= 14+/w   17+/b   3-/w    12+/b   10+/b   2-/b     |14037826
+ 8 Straszewska Katarzyna   1k PL  Krak  25=  2    157  919= 3-/b    6+/w    5+/w    1-/w    4-/b    0=       |13013968
+ 9 Malinowski Piotr        4k PL  Tuch  25   4    147  885  12+/w   4-/b    11+/w   14+/b   6-/b    10+/w    |10849850
+10 Walaszewski Bruno       2k PL  Bydg  24   1    155  899= 1-/b    14+/b   4-/w    5-/b    7-/w    9-/b     |14950430
+11 Szychowiak Wojciech     4k PL  Bydg  24   3    145  828  17-/w   12+/b   9-/b    16+/b   13+/w   5-/w     |10801835
+12 Blumberg Klaus          3k DE  BS    24   2    138  809  9-/b    11-/w   13-/b   7-/w    14+/w   26+/w    |10486124
+13 Skibinska Paulina       6k PL  Pozn  24   5    136  778= 22+/b   18+/b   12+/w   20+/w   11-/b   15+/w    |15062674
+14 Schultze Achim          3k DE  GOE   23   1    136  821= 7-/b    10-/w   6-/w    9-/w    12-/b   27+/b    |10474739
+15 Kulczycki Marcin        6k PL  Krak  23   4    130= 736= 18-/w   23+/b   21+/b   25+/w2  20+/w   13-/b    |14350512
+16 Hanke Antoni            6k PL  Wars  23   3    128= 746  19+/b   21+/b   17+/w   11-/w   0=      0=       |16925095
+17 Bialozyt Adam           5k PL  Krak  23   2    123  732= 11+/b   7-/w    16-/b   0=      0=      28+/w    |16586053
+18 Walczak Piotr           6k PL  Bydg  22   2    126  733= 15+/b   13-/w   25+/w1  0=      19-/w   0=       |15786210
+19 Libront Dawid           6k PL  Bydg  22   2    126  721= 16-/w   22+/b   20-/w   0=      18+/b   0=       |15698287
+20 Kaskow Wojciech         7k PL  Szcz  22   4    117  641= 24+/w1  25+/w   19+/b   13-/b   15-/b   29+/w9   |16201526
+21 Przech Ignacy           6k PL  Bydg  21=  1    124  721= 23+/b   16-/w   15-/w   0=      0=      0=       |15613290
+22 Korczewski Lukasz       6k PL  Wars  21   0    122  718  13-/w   19-/w   0=      0=      0=      0=       |16274049
+23 Mistura Lukasz          6k PL  Wars  21   0    120= 710= 21-/w   15-/w   0=      0=      0=      0=       |15013251
+24 Malkiewicz Wojciech    10k PL  Toru  19   4    96   501  20-/b1  28+/w6  26-/b   27+/w4  29+/w9  0+       |16562128
+25 Domanski Filip          9k PL  Wars  18   1    113  678= 0+      20-/b   18-/b1  15-/b2  0=      0=       |16949526
+26 Suplicki Rafal         12k PL  Wroc  16   3    97   522  27-/w3  0+      24+/w   29+/w9  28-/w5  12-/b    |17237836
+27 Szychowiak Marianna    17k PL  Bydg  11   3    80   520  26+/b3  29+/w7  28-/w1  24-/b4  0+      14-/w    |16725709
+28 Malkiewicz Cezary      19k PL  Toru  10   4    71   507  29+/w4  24-/b6  27+/b1  0+      26+/b5  17-/b    |17237407
+29 Pietrzak Joanna        20k PL  Wroc  1    1    40   501  28-/b4  27-/b7  0+      26-/b9  24-/b9  20-/b9   |17225835
+
+
+

@@ -1,0 +1,50 @@
+; TC[T160712A]
+; CL[B]
+; EV[Summer Go School Entrance Tournament]
+; PC[PL, Przystanek Alaska]
+; DT[2016-07-12,2016-07-12]
+; HA[h9]
+; KM[6.5]
+; TM[55]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Majka Marcin            3d PL  Wroc  15   4    15   53   210  5+/w    2+/b    4+/b    3+/w     |14713413
+ 2 Cieslak Karol           1d PL  Kosz  14   3    14   53   211  3+/b    1-/w    9+/b    4+/w     |14649228
+ 3 Drzystek Andrzej        2k PL  Wars  13   2    13   54   208  2-/w    5+/b    8+/w    1-/b     |15350973
+ 4 Stepnowski Pawel         2k PL  Wroc  13   2    13   53   209  9+/b    8+/w    1-/w    2-/b     |14313134
+ 5 Walaszewski Maksym      1d PL  Bydg  13   2    13   50   204  1-/b    3-/w    13+/b   9+/w     |15050673
+ 6 Bednarczyk Dariusz      3k PL  Pozn  13   2    13   48   190= 8-/b    7-/w    10+/w   11+/w    |14037826
+ 7 Bialozyt Adam           5k PL  Krak  13   4    13   47   192= 12+/w   6+/b    11+/b   8+/w     |16586053
+ 8 Jelowicki Patryk        3k PL  Kosz  12   1    12   52   202  6+/w    4-/b    3-/b    7-/b     |15886629
+ 9 Obrok Pawel             2k PL  Krak  12   1    12   51   205= 4-/w    11+/b   2-/w    5-/b     |13686750
+10 Kulczycki Marcin        5k PL  Krak  12   3    12   42   176  14+/w   17+/b   6-/b    13+/b    |14350512
+11 Domanski Filip          4k PL  Wars  11   1    11   49=  187  15+/b   9-/w    7-/w    6-/b     |16949526
+12 Palej Malgorzata        5k PL  Krak  11   2    11   43   175  7-/b    13-/w   14+/b   16+/w    |13925032
+13 Gutkowski Marek         6k PL  Wars  10   2    10   46   175  16+/b   12+/b   5-/w    10-/w    |12086173
+14 Barcicki Artur          5k PL  Pozn  10   1    10   42   165  10-/b   16-/w   12-/w   17+/w    |14637227
+15 Mazurek Maciej          4k PL  Wars  11=  0    10   41   169= 11-/w   0=      0=      0=       |14786574
+16 Kaskow Wojciech         6k PL  Szcz  10   2    10   40   171  13-/w   14+/b   17+/w   12-/b    |16201526
+17 Korczewski Lukasz       6k PL  Wars  9    1    9    40   156  20+/w   10-/w   16-/b   14-/b    |16274049
+18 Kwietniewska Daria      8k PL  Wroc  9    3    9    32   120  19-/b   24+/w   20+/b   23+/b    |16062684
+19 Cieslak Wojciech        8k PL  Kosz  9    3    9    31   124  18+/w   21+/b   23-/w   22+/b    |15474052
+20 Kochanowska Elzbieta    8k PL  Lodz  8    2    8    32   134  17-/b   22+/b   18-/w   21+/w    |14062015
+21 Chojnacka Marcelina     8k PL  Bydg  7    1    7    31   121  24+/b   19-/w   22-/b   20-/b    |14398802
+22 Bugaj Robert            9k PL  Wars  7    2    7    31   116= 25+/b   20-/w   21+/w   19-/w    |13437017
+23 Dobek Krystian          8k PL  Wars  8    1    7    30   111  0=      0=      19+/b   18-/w    |14313970
+24 Rudnicki Janusz         8k PL  Pola  7    1    7    27   103  21-/w   18-/b   25-/w   27+/w    |17598713
+25 Cieslak Anna           10k PL  Kosz  7    3    7    22=  94=  22-/w   29+/b   24+/b   26+/b    |16262367
+26 Tokarski Filip         12k PL  Wars  5    3    5    17=  71   29+/b   27+/b   30+/b   25-/w    |17537652
+27 Klimczak Mariusz       12k PL  Bydg  4    2    4    17=  73=  32+/b   26-/w   29+/w   24-/b    |16586614
+28 Bugaj Antoni           20k PL  Pias  4    4    4    9    39   0+      33+/w   36+/w   30+/b    |17898078
+29 Bugaj Joanna           11k PL  Wars  3=   0    3    19   69=  26-/w   25-/w   27-/b   0=       |14962849
+30 Bogdziewicz Tomasz     13k PL  Pozn  3    2    3    12   43   35+/b   34+/b   26-/w   28-/w    |17913907
+31 Bzoma Rafal            19k PL  Tro   3    3    3    7=   32=  33-/b   37+/w   34+/b   32+/w    |14033591
+32 Kolodziej Marta        15k PL  Wars  2    2    2    10   43=  27-/w   35+/b   33+/b   31-/b    |17913258
+33 Chlebowicz January     20k PL  Chjn  2    2    2    10   34=  31+/w   28-/b   32-/w   36+/b    |17925908
+34 Mazur Michal           20k PL  Bial  2    2    2    8    36   36+/b   30-/w   31-/w   35+/w    |18050109
+35 Szustakiewicz Mikolaj  14k PL  Wroc  1    1    1    8=   34=  30-/w   32-/w   37+/b   34-/b    |17486821
+36 Szczesniak Stanislaw   20k PL  Wars  1    1    1    8    35   34-/w   0+      28-/b   33-/w    |17949910
+37 Walkiewicz Magdalena   17k PL  Wars  1=   1    1    4=   20=  0=      31-/b   35-/w   0+       |17933256
+
+
+

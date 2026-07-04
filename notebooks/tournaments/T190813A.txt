@@ -1,0 +1,45 @@
+; TC[T190813A]
+; CL[A]
+; EV[Summer Go School Marathon - 1st week]
+; PC[PL, Przystanek Alaska]
+; DT[2019-08-13,2019-08-16]
+; HA[h9]
+; KM[6.5]
+; TM[105]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Kay Andrew             4d UK  Bmhm  19   3    19   52   161  7+/w    5+/b    2+/b    9-/b     |14613720
+ 2 Majka Marcin           4d PL  Wroc  18   2    18   54   155  4+/b    6+/w    1-/w    8+/w     |14713413
+ 3 Fraczak Pawel          1k PL  Wars  18   2    18   51   158  5-/w    8+/b    7+/b    4-/w     |14650768
+ 4 Jurkiewicz Dawid       2d PL  Szcz  18   2    18   50   156  2-/w    11+/b   6+/b    3+/b     |15650283
+ 5 Fraczak Jan            2d PL  Wars  17   1    17   55   152  3+/b    1-/w    9-/w    7-/b     |16298964
+ 6 Walaszewski Maksym     3d PL  Bydg  17   1    17   53   155  8+/b    2-/b    4-/w    0=       |15050673
+ 7 Effenberg Alfred       3k AT  Wien  17   1    17   52   151  1-/b    12+/b   3-/w    5+/w     |10213896
+ 8 Obrok Pawel            3k PL  Krak  17   1    17   51   151  6-/w    3-/w    13+/b   2-/b     |13686750
+ 9 Cieslak Karol          2d PL  Kosz  18   1    17   49   151  0=      0=      5+/b    1+/w     |14649228
+10 Milkowski Jakub        6k PL  Krak  16   3    16   39   118  16+/b   17+/w   12+/w   14+/w    |17937370
+11 Dziezyc Marcin         5k PL  Wars  15   1    15   49   141  12+/w   4-/w    14-/b   15-/b    |18750864
+12 Paar Kurt              4k AT  Wien  15   0    15   48   140  11-/b   7-/w    10-/b   13-/w    |10286936
+13 Libront Dawid          4k PL  Bydg  16   0    15   47   141  0=      0=      8-/w    12+/b    |15698287
+14 Cieslak Wojciech       5k PL  Kosz  16   1    15   43   133  0=      0=      11+/w   10-/b    |15474052
+15 Bogdziewicz Tomasz     5k PL  Pozn  15=  0    14   42   126  0=      0=      0=      11+/w    |17913907
+16 Rudnicki Janusz        8k PL  Pola  12   1    12   35   99   10-/w   20+/w   18-/b   17+/b    |17598713
+17 Mazur Michal           9k PL  Bial  12   2    12   35   99   18+/b   10-/b   20+/w   16-/w    |18050109
+18 Biernot Ewa            9k PL  Pozn  12   2    12   30   93   17-/w   21+/b   16+/w   19-/b    |18398402
+19 Okonkwo Jeoman         8k PL  Pozn  12=  0    11   33   99   0=      0=      0=      18+/w    |18386401
+20 Wojnarowski Lukasz    13k PL  Pozn  7    1    7    30   93   21+/w   16-/b   17-/b   22+/w    |18425935
+21 Cylwik Robert         13k PL  Bial  6    0    6    23   69   20-/b   18-/w   22-/b   23+/b    |18298610
+22 Barcicki Tymoteusz    18k PL  Pozn  4    3    4    9    35   27+/w   24+/b   21+/w   20-/b    |18737928
+23 Tytus Aleksander      20k PL  Gorz  3    3    3    5    12   33+/w   32+/b   25+/b   21-/w    |19337846
+24 Olejniczak Stanislaw  20k UK  Hunt  2    2    2    7    18   26+/w   22-/w   28+/b   34+/b    |19349847
+25 Papaj Grzegorz        20k PL  NDMa  2    2    2    5    14   29+/w   30+/b   23-/w   26-/b    |19325845
+26 Seget Anna            20k PL  Pozn  2    2    2    4    16   24-/b   28+/w   31+/b   25+/w    |19298158
+27 Zebrowska Joanna      20k PL  Bial  1    1    1    5    18   22-/b   31-/w   0+      28-/w    |19298631
+28 Sliwicki Michal       20k PL  Krak  1    1    1    5    15   31+/w   26-/b   24-/w   27+/b    |19362849
+29 Soczowa Magda         20k PL  Gdan  1    1    1    4=   11=  25-/b   34-/w   30+/b   31-/b    |19325856
+30 Wajda Wojciech        20k PL  Gorz  1    1    1    4=   11=  34+/b   25-/w   29-/w   0=       |19374850 
+31 Kolinski Leszek       20k PL  Bydg  1    1    1    4    14   28-/b   27+/b   26-/w   29+/w    |19333853
+32 Cielinski Nikodem     20k PL  Wroc  1=   1    1    3=   8    35+/b   23-/w   0=      0=       |19337857
+33 Jurkiewicz Justyna    20k PL  Pozn  1=   1    1    3=   8    23-/b   35+/w   0=      0=       |19337890
+34 Papaj Ludwik          20k PL  NDMa  1=   1    1    2    9    30-/w   29+/b   0=      24-/w    |19386851
+35 Przybylak Maria       20k PL  Gorz  0=   0    0    3    7    32-/w   33-/b   0=      0=       |19350859

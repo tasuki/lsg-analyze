@@ -1,0 +1,45 @@
+; TC[T210717B]
+; CL[A]
+; EV[Summer Go School - Marcin Zgirski memorial]
+; PC[PL, Przystanek Alaska]
+; DT[2021-07-17,2021-07-18]
+; HA[h9]
+; KM[6.5]
+; TM[75]
+; CM[Fischer 45min+15sec (submitted by kamyszyn)]
+;.
+ 1 Jurkiewicz Dawid      4d PL  Szcz  20   5    20   109= 637  9+/w    5+/b    7-/b    3+/w    2+/w    4+/b     |15650283
+ 2 Majka Marcin          4d PL  Wroc  19   4    19   109= 642  4+/b    7-/w    10+/b   5+/w    1-/b    3+/b     |14713413
+ 3 Drzystek Andrzej      1k PL  Wars  18   3    18   110  643  5-/b    4+/w    6+/w    1-/b    8+/b    2-/w     |15350973
+ 4 Cieslak Karol         3d PL  Kosz  18   3    18   108= 631  2-/w    3-/b    9+/w    11+/b   6+/b    1-/w     |14649228
+ 5 Fraczak Pawel         1k PL  Wars  18   3    18   108  640= 3+/w    1-/w    8+/w    2-/b    10+/b   6-/b     |14650768
+ 6 Walaszewski Maksym    3d PL  Bydg  18   3    18   106  629= 7-/b    11+/w   3-/b    10+/b   4-/w    5+/w     |15050673
+ 7 Czernecki Cezary      4d PL  Bial  19=  3    18   102  595  6+/w    2+/b    1+/w    0=      0=      0=       |14813139
+ 8 Bugaj Antoni          2k PL  Wars  17   3    17   101= 609= 10-/w   12+/w   5-/b    9+/b    3-/w    11+/b    |17898078
+ 9 Kudla Grzegorz        1k UK  Edin  17   2    17   99   599  1-/b    10-/w   4-/b    8-/w    15+/w   16+/b    |12774795
+10 Dziezyc Marcin        2k PL  Wars  16   2    16   104  611  8+/b    9+/b    2-/w    6-/w    5-/w    13-/b    |18750864
+11 Bialozyt Adam         1k PL  Krak  16=  2    16   97   584  0=      6-/b    15+/w   4-/w    12+/b   8-/w     |16586053
+12 Malinowski Piotr      3k PL  Tuch  16   3    16   91=  545  15-/w   8-/b    14+/w   13+/b   11-/w   18+/w    |10849850
+13 Doruch Cyprian        5k PL  Wroc  15   4    15   87   515= 16-/b   19+/w   18+/b   12-/w   17+/b   10+/w    |18725927
+14 Milkowski Jakub       4k PL  Krak  16   3    15   81   497  18+/w   16+/w   12-/b   15+/b   0=      0=       |17937370
+15 Barcicki Tymoteusz    4k PL  Pozn  14   2    14   92=  535= 12+/b   18+/w   11-/b   14-/w   9-/b    17-/w    |18737928
+16 Schultze Achim        5k DE  Goet  14   3    14   83   485  13+/w   14-/b   17-/w   20+/b   21+/w   9-/w     |10474739
+17 Mroczek Marcel        6k PL  Krak  14   4    14   81   490= 19-/w   20+/w   16+/b   18+/b   13-/w   15+/b    |18374048
+18 Blumberg Klaus        4k DE  BS    13   1    13   86   505  14-/b   15-/b   13-/w   17-/w   20+/w   12-/b    |10486124
+19 Bugaj Robert          6k PL  Wars  14   3    13   70   425  17+/b   13-/b   20+/w   21+/b   0=      0=       |13437017
+20 Mazur Michal          7k PL  Bial  11   2    11   72   435  21+/w   17-/b   19-/b   16-/w   18-/b   25+/w    |18050109
+21 Klimczak Mariusz      8k PL  Bydg  10   2    10   65   373  20-/b   25+/w   22+/b   19-/w   16-/b   23-/w    |16586614
+22 Bugaj Joanna          9k PL  Joze  10   2    9    51   285  23+/w   24-/b   21-/w   26+/b   0=      0=       |14962849
+23 Kudla Hanna          11k UK  Edin  9    4    9    47   284  22-/b   28+/w   26+/b   25-/w   27+/b   21+/b    |18250045
+24 Rapanowicz Grzegorz   9k PL  Lubn  11   2    9    45   260  27+/b   22+/w   0=      0=      0=      0=       |15362974
+25 Wojnarowski Lukasz   12k PL  Pozn  7    3    7    50   294  26+/w   21-/b   27+/w   23+/b   29-/w   20-/b    |18425935
+26 Kudla Jan            11k UK  Edin  7    2    7    44   253= 25-/b   27+/w   23-/w   22-/w   28-/b   30+/b    |18298049
+27 Kudla Lukasz         11k UK  Edin  7    2    7    41   241  24-/w   26-/b   25-/b   30+/w   23-/w   31+/b    |19498798
+28 Dec Tomasz           14k PL  Gdan  6    4    6    33   202  30+/b   23-/b   29-/w   34+/w   26+/w   0+       |19450563
+29 Machowski Antoni     15k PL  Krak  6    5    6    25   170= 32+/w   30-/b   28+/b   31+/w   25+/b   34+/w    |19625529
+30 Tytus Aleksander     14k PL  Gorz  5    3    5    31=  174= 28-/w   29+/w   33+/b   27-/b   31+/b   26-/w    |19337846
+31 Wilczynski Jakub     16k PL  Gdan  2    2    2    23=  150= 0+      33-/w   34+/b   29-/b   30-/w   27-/w    |16525190
+32 Stalinski Sven       15k DE  B     4    1    2    11   70=  29-/b   34+/b   0=      0=      0=      0=       |19386763
+33 Stalinski Viktor     16k DE  B     3=   2    2    8    76=  34+/w   31+/b   30-/w   0=      0=      0=       |19362783
+34 Wajda Wojciech       18k PL  Gorz  1    1    1    21=  122  33-/b   32-/w   31-/w   28-/b   0+      29-/b    |19374850
+

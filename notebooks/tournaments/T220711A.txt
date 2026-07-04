@@ -1,0 +1,48 @@
+; TC[T220711A]
+; CL[A]
+; EV[Summer Go School Marathon - 1st week]
+; PC[PL, Przystanek Alaska]
+; DT[2022-07-11,2022-07-15]
+; HA[h9]
+; KM[6.5]
+; TM[75]
+; CM[Fischer 45min+15sec (submitted by kamyszyn)]
+;.
+ 1 Shalneva Virzhinia    4d RU  50Zh  23   5    23   103  511  5+/b    2+/w    4+/b    3+/w    10+/b    |16325034
+ 2 Jurkiewicz Dawid      4d PL  Pozn  21   3    21   105  493= 6+/b    1-/b    12+/w   4+/w    8-/w     |15650283
+ 3 Walaszewski Maksym    3d PL  Bydg  21   3    21   104  511= 7+/b    4-/w    6+/w    1-/b    5+/b     |15050673
+ 4 Fraczak Jan           2d PL  Wars  21   3    21   104  510  9+/w    3+/b    1-/w    2-/b    7+/b     |16298964
+ 5 Bugaj Antoni          1k PL  Wars  20   2    20   103  507= 1-/w    6-/b    7+/w    9+/b    3-/w     |17898078
+ 6 Lew Lukasz            2d PL  Ziel  20   2    20   102= 506  2-/w    5+/w    3-/b    8-/b    9+/w     |12913120
+ 7 Fraczak Pawel         1d PL  Wars  20   2    20   99   498  3-/w    9+/b    5-/b    14+/b   4-/w     |14650768
+ 8 Czernecki Cezary      4d PL  Bial  21=  2    20   95   477= 0=      0=      0=      6+/w    2+/b     |14813139
+ 9 Stieglitz Robin       1k FR  38Gr  19   1    19   99   498= 4-/b    7-/w    11+/w   5-/w    6-/b     |17813268
+10 Cieslak Karol         3d PL  Kosz  20   0    18   95   463  0=      0=      0=      0=      1-/w     |14649228
+11 Milkowski Jakub       4k PL  Krak  18   2    18   90   445  13+/b   14-/w   9-/b    15-/w   17+/b    |17937370
+12 Libront Dawid         2k PL  Bydg  19=  1    18   89   447= 0=      0=      2-/b    16+/w   0=       |15698287
+13 Barcicki Tymoteusz    4k PL  Pozn  18   2    18   88   435= 11-/w   15+/b   14-/b   17-/w   16+/b    |18737928
+14 Blumberg Klaus        5k DE  BS    18   3    18   88   434  22+/b   11+/b   13+/w   7-/w    18-/w    |10486124
+15 Mroczek Marcel        5k PL  Krak  18   3    18   85   420= 17+/b   13-/w   16-/w   11+/b   20+/b    |18374048
+16 Mazur Michal          6k PL  Bial  17   3    17   87=  419  19+/w   17+/b   15+/b   12-/b   13-/w    |18050109
+17 Schultze Achim        5k DE  Goet  17   2    17   85   429= 15-/w   16-/w   22+/b   13+/b   11-/w    |10474739
+18 Bogdziewicz Tomasz    5k PL  Pozn  18   1    16   78   388  0=      0=      0=      0=      14+/b    |17913907
+19 Walter Agnieszka      8k PL  Krak  15   3    15   72   359  16-/b   24-/w   25+/b   26+/b   23+/w    |20150152
+20 Siwy Adam             9k PL  Szcz  15   4    15   70   356= 27+/b   26+/w   21+/w   22+/b   15-/w    |19725508
+21 Rapanowicz Grzegorz   8k PL  Lubn  15   3    15   68   349= 26-/w   22+/w   20-/b   24+/b   25+/b    |15362974
+22 Bugaj Robert          6k PL  Wars  14   0    14   79   380  14-/w   21-/b   17-/w   20-/w   24-/b    |13437017
+23 Okonkwo Jeoman        6k PL  Pozn  16   0    14   71   352  0=      0=      0=      0=      19-/b    |18386401
+24 Klamecka Natalia     10k PL  Wroc  14   4    14   69   350= 25+/w   19+/b   26+/b   21-/w   22+/w    |14033239
+25 Chlebowicz January    9k PL  Choj  13   2    13   62=  314= 24-/b   30+/b   19-/w   27+/b   21-/w    |17925908
+26 Bugaj Joanna          9k PL  Joze  12   1    12   69   324= 21+/b   20-/b   24-/w   19-/w   28-/w    |14962849
+27 Krainova Liubov      11k DE  B     11   2    11   55=  270= 20-/w   28-/b   30+/b   25-/w   29+/w    |19850974
+28 Dec Tomasz           13k PL  Gdan  10   3    10   45=  241= 30-/w   27+/w   29-/b   31+/b   26+/b    |19450563
+29 Tytus Aleksander     13k PL  Gorz  10   2    9    42=  221  0=      0=      28+/w   30+/b   27-/b    |19337846
+30 Kluziak Maria        14k PL  Krak  7=   1    7    50   236  28+/b   25-/w   27-/w   29-/w   0=       |19525913
+31 Bugaj Zofia          17k PL  Joze  5    2    5    24=  110= 34+/b   33-/w   36+/w   28-/w   32-/b    |18201546
+32 Sobanski Michal      20k PL  Pozn  5    5    5    17=  80   36+/b   34+/w   33+/b   35+/w   31+/w    |20113159
+33 Sliwicki Michal      18k PL  Krak  5=   3    5    14   84   0=      31+/b   32-/w   36+/b   37+/w    |19362849
+34 Barcicki Kacper      25k PL  Pozn  3    3    3    14   88   31-/w   32-/b   0+      37+/b   36+/w    |19850039
+35 Szalecka Martyna     20k PL  Nie   3    2    2    8    38   0=      0=      37+/w   32-/b   0+       |19850941
+36 Zhang Bin            25k DE  B     1    1    1    19=  82=  32-/w   37+/b   31-/b   33-/w   34-/b    |19833968
+37 Kolinska Natalia     30k PL  Bydg  1    1    1    12=  68   0+      36-/w   35-/b   34-/w   33-/b    |19301854
+

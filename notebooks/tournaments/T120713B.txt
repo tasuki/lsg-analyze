@@ -1,0 +1,77 @@
+; TC[T120713B]
+; CL[A]
+; EV[Summer Go School - Marathon]
+; PC[PL, Przystanek Alaska]
+; DT[2012-07-13,2012-07-20]
+; HA[h9]
+; KM[6.5]
+; TM[82.5]
+; CM[ (submitted by kamyszyn)]
+;.
+; Marathon
+ 1 Surma Mateusz            6d PL  Dzim  34=  9    299  2907= 4+/w0   5+/b0   10+/w0  7+/b0   2+/b0   3+/w0   20+/b0  8+/w0   9+/b0   0=       |12837968
+ 2 Frejlak Stanislaw        3d PL  Wars  32   7    308  2954 6+/w0   4+/b0   7-/w0   14+/b0  1-/w0   9+/b0   5+/w0   3-/b0   8+/b0   15+/w0   |12837594
+ 3 Kaminski Marek           4d PL  Miro  32   5    287  2788= 0=      0=      0=      9+/w0   14+/b0  1-/b0   7+/b0   2+/w0   4+/w0   0=       |13913823
+ 4 Simons Andrew            3d UK  Camb  31   6    305  2939 1-/b0   2-/w0   22+/w0  18+/b0  16+/w0  8+/b0   6+/w0   7+/b0   3-/b0   5-/w0    |14337147
+ 5 Pawlaczyk Sebastian      3d PL  Jast  31   6    303= 2927 9+/w0   1-/w0   6-/b0   13-/w0  18+/b0  12+/w0  2-/b0   20+/w0  7+/w0   4+/b0    |14562372
+ 6 Czernecki Cezary         3d PL  Bial  31   6    295= 2905 2-/b0   19+/w0  5+/w0   8-/w0   13+/b0  7-/w0   4-/b0   16+/b0  20+/w0  25+/b0   |14813139
+ 7 Kay Andrew               5d UK  SLon  30   5    311  2940 12+/b0  11+/w0  2+/b0   1-/w0   8+/w0   6+/b0   3-/w0   4-/w0   5-/b0   9-/b0    |14613720
+ 8 Frejlak Jan              1d PL  Wars  30   5    304= 2884 11-/w0  13+/w0  12+/b0  6+/b0   7-/b0   4-/w0   15+/b0  1-/b0   2-/w0   20+/b0   |12801591
+ 9 Majka Marcin             2d PL  Wroc  30   5    298= 2906= 5-/b0   18-/w0  24+/w0  3-/b0   22+/b0  2-/w0   25+/b0  12+/b0  1-/w0   7+/w0    |14713413
+10 Chwedyna Kamil           4d PL  Kedz  30   1    263= 2582 0=      0=      1-/b0   15+/w0  0=      0=      0=      0=      0=      0=       |13513786
+11 Crosby Matthew           3d UK  Edin  30   1    260  2615= 8+/b0   7-/b0   0=      0=      0=      0=      0=      0=      0=      0=       |13701501
+12 Mos Ewa                  1d PL  Gliw  29=  3    279  2818 7-/w0   24+/b0  8-/w0   0=      0=      5-/b0   18+/b0  9-/w0   19+/w0  0=       |13533047
+13 McGill Martha            1k UK  Edin  29=  3    267  2668= 18+/w0  8-/b0   25+/w0  5+/b0   6-/w0   0=      0=      0=      0=      0=       |15233064
+14 Misiak Majus             2d PL  Gdan  29=  1    267  2632= 0=      0=      18+/b0  2-/w0   3-/w0   0=      0=      0=      0=      0=       |16225132
+15 Obrok Pawel              3k PL  Krak  29   7    283  2728 21+/b0  32+/w0  23+/w0  10-/b0  19+/b0  24+/b0  8-/w0   25+/w0  17+/w0  2-/b0    |13686750
+16 Jurkiewicz Dawid         1k PL  Szcz  29   3    268  2688= 0=      0=      0=      0=      4-/b0   18-/w0  24+/b0  6-/w0   25+/w0  19+/b0   |15650283
+17 Straszewska Katarzyna    2k PL  Krak  28=  3    254= 2539 0=      0=      0=      0=      0=      21+/w0  19-/b0  22+/w0  15-/b0  24+/b0   |13013968
+18 Cieslak Karol            1d PL  Kosz  28   2    287= 2772 13-/b0  9+/b0   14-/w0  4-/w0   5-/w0   16+/b0  12-/w0  19-/b0  0=      0=       |14649228
+19 Effenberg Alfred         1k AT  Wien  28   4    284  2684 22-/w0  6-/b0   26+/b0  21-/w0  15-/w0  27+/b0  17+/w0  18+/w0  12-/b0  16-/w0   |10213896
+20 Chojnacki Mateusz        1d PL  Bydg  28   0    276= 2702= 0=      0=      0=      0=      0=      0=      1-/w0   5-/b0   6-/b0   8-/w0    |14237498
+21 Sliwinski Rafal          3k PL  Gdan  28   6    268  2586= 15-/w0  31+/b0  32+/w0  19+/b0  24-/w0  17-/b0  30+/w0  23-/b0  22+/w0  37+/w0   |16333801
+22 Sokol Marcin             2k PL  Krak  27=  4    275  2678= 19+/b0  29+/w0  4-/b0   24+/b0  9-/w0   25-/w0  27+/w0  17-/b0  21-/b0  0=       |14398516
+23 Kleczkowska Klaudia      3k PL  Bial  27=  2    236= 2350= 0=      0=      15-/b0  30+/w0  0=      0=      0=      21+/w0  0=      0=       |14801435
+24 Mitrovic Boris           1k SI  Edin  27   4    279  2699 25+/b0  12-/w0  9-/b0   22-/w0  21+/b0  15-/w0  16-/w0  30+/b0  33+/w0  17-/w0   |15737689
+25 Kaczorowska Malgorzata   1k PL  Wars  27   2    277= 2690 24-/w0  27+/w0  13-/b0  0=      0=      22+/b0  9-/w0   15-/b0  16-/b0  6-/w0    |13050543
+26 Bednarczyk Dariusz       3k PL  Pozn  27   1    229= 2303= 0=      30+/b0  19-/w0  0=      0=      0=      0=      0=      0=      0=       |14037826
+27 Jelowicki Patryk         3k PL  Kosz  26=  2    244  2434 30+/w0  25-/b0  29+/b0  0=      0=      19-/w0  22-/b0  0=      0=      0=       |15886629
+28 Fraczak Jan              6k PL  Wars  26=  6    230= 2238 35+/w0  38+/b0  36+/b0  31+/w0  32+/w0  30-/b0  29+/b0  0=      0=      0=       |16298964
+29 Bojar Andrzej            3k PL  Pozn  26   1    238  2309= 0=      22-/b0  27-/w0  0=      0=      31+/b0  28-/w0  0=      0=      0=       |10825837
+30 Wroclawski Stefan        3k PL  Soch  25=  3    259= 2420= 27-/b0  26-/w0  34+/b0  23-/b0  31-/w0  28+/w0  21-/b0  24-/w0  32+/b0  0=       |13901569
+31 Fraczak Pawel            4k PL  Wars  25=  3    240  2332 32-/b0  21-/w0  41+/w0  28-/b0  30+/b0  29-/w0  36+/w0  0=      0=      0=       |14650768
+32 Paar Kurt                5k AT  Frau  25   5    252= 2398= 31+/w0  15-/b0  21-/b0  33+/w0  28-/b0  37-/b0  42+/w0  36+/b0  30-/w0  39+/b0   |10286936
+33 Koziol Pawel             6k PL  Wars  25   6    236  2268= 34-/w0  43+/w0  38+/b0  32-/b0  36-/w0  46+/b0  40+/b0  37+/b0  24-/b0  42+/w0   |13037431
+34 Barcicki Artur           5k PL  Pozn  24=  2    220= 2167 33+/b0  0=      30-/w0  0=      0=      36-/b0  37-/w0  42+/b0  0=      0=       |14637227
+35 Surma Bartosz            8k PL  Dzim  24=  7    216= 2100 28-/b0  50+/b0  43+/w0  52+/b0  37-/w0  41+/w0  38+/b0  46+/w0  42+/b0  0=       |13833039
+36 Kulczycki Marcin         6k PL  Krak  24   4    232  2174 0=      0=      28-/w0  45+/b0  33+/b0  34+/w0  31-/b0  32-/w0  37-/b0  44+/w0   |14350512
+37 Baranek Jan              7k PL  Gliw  24   4    222= 2145= 0=      0=      0=      0=      35+/b0  32+/w0  34+/b0  33-/w0  36+/w0  21-/b0   |15398284
+38 Palej Malgorzata         7k PL  Krak  23   5    229= 2156= 41+/b0  28-/w0  33-/w0  43+/b0  45+/b0  42-/b0  35-/w0  40+/w0  39-/w0  48+/b0   |13925032
+39 Dobek Krystian           8k PL  Wars  23   5    210  2078 0=      0=      52+/w0  41+/b0  42-/w0  40-/b0  48+/b0  43+/w0  38+/b0  32-/w0   |14313970
+40 Wozniak Marian           8k PL  Gubi  23   4    202= 1983 0=      0=      0=      0=      43+/b0  39+/w0  33-/w0  38-/b0  47+/w0  45+/b0   |16513189
+41 Mazurek Maciej           7k PL  Wars  22   4    221= 2086= 38-/w0  45+/b0  31-/b0  39-/w0  48+/b0  35-/b0  43-/w0  47+/w0  44-/b0  49+/w0   |14786574
+42 Ravera Sylvain           7k FR  92Le  22   2    217  2085 0=      0=      0=      0=      39+/b0  38+/w0  32-/b0  34-/w0  35-/w0  33-/b0   |13549569
+43 Libront Dawid            7k PL  Bydg  22   3    216  2071 50+/w0  33-/b0  35-/b0  38-/w0  40-/w0  47+/b0  41+/b0  39-/b0  0=      0=       |15698287
+44 Bandach Lukasz           8k PL  Morg  22   1    182  1813= 0=      0=      0=      0=      0=      0=      0=      0=      41+/w0  36-/b0   |16213197
+45 Zgirski Marcin           7k PL  Gdan  21=  3    210  2056= 47+/b0  41-/w0  0=      36-/w0  38-/w0  48+/w0  46+/w0  0=      0=      40-/w0   |15037253
+46 Cieslak Wojciech         7k PL  Kosz  21=  0    197  1922= 0=      0=      0=      0=      0=      33-/w0  45-/b0  35-/b0  0=      0=       |15474052
+47 Szelag Mateusz           9k PL  Wroc  20   4    201= 1917= 45-/w0  52-/b0  51+/b0  49+/w0  56+/w1  43-/w0  50+/w0  41-/b0  40-/b0  0=       |15886365
+48 Chojnacka Marcelina      8k PL  Bydg  20   1    196= 1938 0=      0=      0=      0=      41-/w0  45-/b0  39-/w0  49-/b0  52+/w0  38-/w0   |14398802
+49 Kaskow Wojciech         13k PL  Szcz  20   8    184= 1790 56+/b0  57+/w0  53+/w0  47-/b0  58+/w0  50+/b0  52+/w0  48+/w0  60+/w0  41-/b0   |16201526
+50 Kostrzewska Maria        8k SE  Gaev  19=  0    193= 1878= 43-/b0  35-/w0  0=      0=      0=      49-/w0  47-/b0  0=      0=      0=       |16262103
+51 Walawski Kamil          10k PL  Wars  19=  1    161  1630= 0=      0=      47-/w0  56+/b0  0=      0=      0=      0=      0=      0=       |16074190
+52 Bojar Olga              10k PL  Pozn  19   4    202= 1860= 54+/b0  47+/w0  39-/b0  35-/w0  0=      53+/w0  49-/b0  0=      48-/b0  56+/w0   |13601214
+53 Walkiewicz Adam         11k PL  Prus  18=  2    159  1551 0=      56-/w0  49-/b0  55+/w0  0=      52-/b0  62+/w1  0=      0=      0=       |15498054
+54 Rucka Anna              11k PL  Wars  18=  0    145  1462= 52-/w0  0=      0=      0=      0=      0=      0=      0=      0=      0=       |16262367
+55 Platek Justyna          12k PL  Wars  18   1    138  1346 0=      0=      60+/w0  53-/b0  0=      0=      0=      0=      0=      0=       |13274756
+56 Chojnacki Piotr         12k PL  Bydg  17   4    176= 1629= 49-/w0  53+/b0  58+/w0  51-/w0  47-/b1  60+/b0  59-/w0  62+/w1  57-/b0  52-/b0   |14225497
+57 Kwietniewska Daria      14k PL  Wroc  17   6    154  1340 60-/w0  49-/b0  62+/b0  58-/b0  0+      0=      66+/w9  59+/w0  56+/w0  61+/w0   |16062684
+58 Malek Magda             13k PL  Wars  16=  1    138  1355 0=      0=      56-/b0  57+/w0  49-/b0  0=      0=      0=      0=      0=       |15801654
+59 Dudek Maria             14k PL  Kato  16=  3    132= 1257= 0=      0=      0=      0=      0=      62+/w0  56+/b0  57-/b0  0+      0=       |16501056
+60 Ziomek Agnieszka        15k PL  Wars  15=  5    147  1206 57+/b0  62+/w0  55-/b0  64-/w7  66+/w8  56-/w0  0+      63+/w5  49-/b0  0=       |16398734
+61 Grab Maksymilian        15k PL  Lubl  15=  3    118  1061= 0=      0=      0=      0=      0=      66+/w8  63+/w4  0+      62-/w0  57-/b0   |16598054
+62 Pawlowski Hubert        15k PL  Kosz  14   4    149= 1378 66+/w9  60-/b0  57-/w0  0+      63+/w3  59-/b0  53-/b1  56-/b1  61+/b0  0=       |15874837
+63 Wilczynski Jakub        20k PL  Gdan  6=   1    95   915  0=      64-/w6  0+      66-/w3  62-/b3  0=      61-/b4  60-/b5  65-/w8  0=       |16525190
+64 Krzysiek Kaja           20k PL  Kosz  6    3    16=  303= 0+      63+/b6  0=      60+/b7  0=      0=      0=      0=      0=      0=       |16574129
+65 Rowinski Jan            20k PL  xxx   5=   2    7=   147= 0=      0=      0=      0=      0=      0=      0=      0=      63+/b8  0+       |16549192
+66 Osmolski Patryk         20k PL  Bydg  3    2    45   732= 62-/b9  0+      0=      63+/b3  60-/b8  61-/b8  57-/b9  0=      0=      0=       |16586130

@@ -1,0 +1,57 @@
+; TC[T100816A]
+; CL[A]
+; EV[Summer Go School - Marathon]
+; PC[PL, Przystanek Alaska]
+; DT[2010-08-16,2010-08-20]
+; HA[h9]
+; KM[6.5]
+; TM[82.5]
+; CM[ (submitted by kamyszyn)]
+;.
+; LSG - Maraton
+; 16/08/2010
+;
+; Pl Name                   Grd Co Club  MMS  SOS SOSO  NBW
+ 1 Kaminski Marek         3d PL  Miro  34   159  797  5    5+/w0   2+/b0   4+/w0   9+/w0   3+/b0    |13913823
+ 2 Straszewski Jakub      1d PL  Krak  32   161  787  3    3+/b0   1-/w0   7+/b0   6-/w0   10+/b0   |12813625
+ 3 Majka Marcin           1d PL  Wroc  32   159  789  3    2-/w0   17+/w0  9+/b0   4+/b0   1-/w0    |14713413
+ 4 Pabich Mariusz         2d PL  Pabi  32   158  780  3    15+/w0  13+/b0  1-/b0   3-/w0   9+/w0    |13849891
+ 5 Frejlak Jan            1d PL  Wars  32   158  771  3    1-/b0   11+/w0  12-/b0  16+/w0  6+/b0    |12801591
+ 6 Sosnicka-Ciesla Anna   1d PL  Szcz  32   157  784  3    14+/w0  9-/b0   10+/b0  2+/b0   5-/w0    |13925769
+ 7 Mex Gerd               1d DE  GOE   32   156  764  3    8-/w0   12+/b0  2-/w0   11+/b0  17+/w0   |10401105
+ 8 Bozek Krzysztof        2d PL  Kato  32   148  736  1    7+/b0   0=      0=      0=      0=       |12874290
+ 9 Frejlak Stanislaw      2d PL  Wars  31   161  789  2    10+/b0  6+/w0   3-/w0   1-/b0   4-/b0    |12837594
+10 Chojnacki Mateusz      1d PL  Bydg  31   156  781  2    9-/w0   15+/b0  6-/w0   12+/b0  2-/w0    |14237498
+11 Beltowska Katarzyna    2k PL  Krak  31   153  756  3    18+/b0  5-/b0   13+/w0  7-/w0   19+/w0   |13013968
+12 Obrok Pawel            2k PL  Krak  31   152  762  3    21+/b0  7-/w0   5+/w0   10-/w0  18+/b0   |13686750
+13 Chmielewski Artur      1k PL  Star  31   151  751  1    16+/b0  4-/w0   11-/b0  0=      0=       |15350841
+14 Czernecki Cezary       1d PL  Bial  31   148  737  0    6-/b0   0=      0=      0=      0=       |14813139
+15 Mos Ewa                1d PL  Byto  30   150  749  0    4-/b0   10-/w0  0=      0=      0=       |13533047
+16 Majnusz Jakub          1k PL  Ruda  30   150  744  0    13-/w0  0=      0=      5-/b0   0=       |13874025
+17 Walaszewski Bruno      3k PL  Bydg  30   150  742  3    20+/w0  3-/b0   19+/w0  21+/b0  7-/b0    |14950430
+18 Jurkiewicz Dawid       3k PL  Szcz  29   147  725  2    11-/w0  19-/b0  21+/w0  23+/b0  12-/w0   |15650283
+19 Soldan Leszek_jr       4k PL  Wars  29   144  721  3    28+/b0  18+/w0  17-/b0  22+/w0  11-/b0   |14362876
+20 Klimczak Bartosz       3k PL  Wars  29   138  690  0    17-/b0  0=      0=      0=      0=       |15374964
+21 Bojar Andrzej          3k PL  Wars  28   145  721  1    12-/w0  22+/w0  18-/b0  17-/w0  0=       |10825837
+22 Drzystek Andrzej       5k PL  Ilaw  28   137  682  3    30+/w0  21-/b0  27+/w0  19-/b0  24+/b0   |15350973
+23 Bednarczyk Dariusz     5k PL  Pozn  28   131  664  2    0=      0=      29+/b0  18-/w0  30+/b0   |14037826
+24 Wyrwa Mariusz          6k PL  Raci  27   133  664  3    25+/b0  29+/w0  26-/b0  32+/w0  22-/w0   |13598376
+25 Poor Dawid             6k PL  Oles  27   131  662  3    24-/w0  32+/w0  28+/b0  30-/b0  26+/b0   |13537370
+26 Fraczak Pawel          7k PL  Wars  27   129  653  4    35+/w0  30+/b0  24+/w0  29+/b0  25-/w0   |14650768
+27 Gogosz Dorota          6k PL  Choc  27   127  644  2    32+/b0  28+/w0  22-/b0  0=      0=       |12901581
+28 Palej Malgorzata       5k PL  Krak  26   134  660  1    19-/w0  27-/b0  25-/w0  31-/b0  32+/b0   |13925032
+29 Palucki Pawel          4k PL  Wroc  26   134  648  0    0=      24-/b0  23-/w0  26-/w0  31-/w0   |14701412
+30 Wyrostek Lukasz        6k PL  Krak  26   133  650  2    22-/b0  26-/w0  35+/b0  25+/w0  23-/w0   |14686320
+31 Malinowski Piotr       7k PL  Tuch  26   125  634  3    0=      33+/w0  32-/b0  28+/w0  29+/b0   |10849850
+32 Kochanowska Elzbieta   6k PL  Lodz  25   133  650  1    27-/w0  25-/b0  31+/w0  24-/b0  28-/w0   |14062015
+33 Sontowska Aleksandra   7k PL  Gdan  25   118  585  0    0=      31-/b0  0=      0=      0=       |14513983
+34 Dobek Krystian        10k PL  Wars  25   109  539  5    37+/b0  35+/w0  38+/b0  36+/b0  40+/w0   |14313970
+35 Rapanowicz Grzegorz    8k PL  Scin  23   122  589  1    26-/b0  34-/b0  30-/w0  37+/w0  0=       |15362974
+36 Przech Ignacy         10k PL  Bydg  23   106  516  3    0=      39+/w0  37+/b0  34-/w0  41+/w0   |15613290
+37 Zajaczkowski Adam     10k PL  Szcz  22   108  538  2    34-/w0  38+/b0  36-/w0  35-/b0  43+/b0   |15362842
+38 Krause Karol          11k PL  Bydg  21   105  505  2    39+/b0  37-/w0  34-/w0  42+/w0  0=       |15725721
+39 Walkiewicz Adam       11k PL  Prus  20   101  499  0    38-/w0  36-/b0  0=      41-/w0  0=       |15498054
+40 Gumulka Piotr         11k PL  Krak  20   98   490  1    0=      42-/b0  41-/b0  43+/w0  34-/b0   |15849295
+41 Malek Magda           15k PL  Wars  19   98   493  3    42-/b0  43+/w0  40+/w0  39+/b0  36-/b0   |15801654
+42 Bojar Olga            15k PL  Wars  19   92   477  3    41+/w0  40+/w0  43+/b0  38-/b0  0=       |13601214
+43 Jelowicki Patryk      18k PL  Kosz  16   96   476  0    0=      41-/b0  42-/w0  40-/b0  37-/w0   |15886629

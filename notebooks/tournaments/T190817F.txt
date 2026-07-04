@@ -1,0 +1,36 @@
+; TC[T190817F]
+; CL[A]
+; EV[Summer Go School - Jerzy Sacharewicz memorial]
+; PC[PL, Przystanek Alaska]
+; DT[2019-08-17,2019-08-18]
+; HA[h9]
+; KM[6.5]
+; TM[105]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Frejlak Stanislaw     7d PL  Wars  18   6    18   90=  537= 8+/w    5+/b    4+/b    3+/w    2+/b    7+/w     |12837594
+ 2 Jurkiewicz Dawid      2d PL  Szcz  16   4    16   92=  535= 3-/b    7+/w    8+/b    5+/w    1-/w    4+/b     |15650283
+ 3 Ohlenbusch Soeren     4d DK  OGK   16=  4    16   89   513= 2+/w    4+/b    0=      1-/b    5+/w    10+/w    |13749241
+ 4 Majka Marcin          4d PL  Wroc  15   3    15   93   513= 7+/b    3-/w    1-/w    6+/b    13+/b   2-/w     |14713413
+ 5 Cieslak Karol         2d PL  Kosz  15   3    15   91=  490= 6+/w    1-/w    12+/b   2-/b    3-/b    18+/w    |14649228
+ 6 Lamprecht Martin      1d DE  KI    15   2    14   80=  497= 5-/b    9+/w    0=      4-/w    7+/b    0=       |17062463
+ 7 Fraczak Pawel         1k PL  Wars  13=  1    13   89   508= 4-/w    2-/b    9+/b    0=      6-/w    1-/b     |14650768
+ 8 Walaszewski Maksym    3d PL  Bydg  14=  1    13   82=  468= 1-/b    15+/b   2-/w    0=      0=      0=       |15050673
+ 9 Bednarczyk Dariusz    3k PL  Pozn  13   2    13   80   459= 12+/b   6-/b    7-/w    13-/w   11-/w   14+/b    |14037826
+10 Dziezyc Marcin        5k PL  Wars  13   4    13   74   413= 15-/w   19+/w   11+/b   14+/w   16+/b   3-/b     |18750864
+11 Cieslak Wojciech      5k PL  Kosz  12   3    12   73=  408= 14+/b   12-/w   10-/w   16+/b   9+/b    17-/w    |15474052
+12 Effenberg Alfred      3k AT  Wien  13=  1    12   73   443  9-/w    11+/b   5-/w    0=      0=      0=       |10213896
+13 Hanebeck Nils         1k DE  KI    14   1    12   72   437  0=      0=      0=      9+/b    4-/w    0=       |10433610
+14 Bogdziewicz Tomasz    5k PL  Pozn  12   3    12   71=  401  11-/w   16+/b   15+/w   10-/b   20+/b   9-/w     |17913907
+15 Paar Kurt             4k AT  Wien  12=  1    11   69=  408  10+/b   8-/w    14-/b   0=      0=      0=       |10286936
+16 Milkowski Jakub       6k PL  Krak  11   3    11   62   355  17+/w   14-/w   19+/b   11-/w   10-/w   22+/b    |17937370
+17 Skibinska Paulina     6k PL  Pozn  11   3    11   48   303  16-/b   21-/w   20-/w   24+/w   22+/b   11+/b    |15062674
+18 Libront Dawid         4k PL  Bydg  12=  0    10   65   391= 0=      0=      0=      0=      0=      5-/b     |15698287
+19 Okonkwo Jeoman        8k PL  Pozn  10   3    10   48   294  21+/w   10-/b   16-/w   20-/b   24+/w   23+/b    |18386401
+20 Mazur Michal          9k PL  Bial  10   5    10   42   278= 22+/b   23+/w   17+/b   19+/w   14-/w   24+/b    |18050109
+21 Chojnacka Marcelina   8k PL  Bydg  9    1    7    45   240  19-/b   17+/b   0=      0=      0=      0=       |14398802
+22 Wojnarowski Lukasz   13k PL  Pozn  4    3    4    40   263  20-/w   0+      24+/b   23+/b   17-/w   16-/w    |18425935
+23 Stasinski Jakub      13k PL  Pozn  3    2    3    30=  208= 24-/b   20-/b   25+/w   22-/w   0+      19-/w    |16733596
+24 Barcicki Tymoteusz   17k PL  Pozn  2    2    2    40=  216  23+/w   25+/w   22-/w   17-/b   19-/b   20-/w    |18737928
+25 Papaj Grzegorz       20k PL  NDMa  2=   1    1    7=   73=  26+/w   24-/b   23-/b   0=      0=      0=       |19325845
+26 Karczewska Izabela   20k PL  Pozn  2=   0    0    2=   7=   25-/b   0=      0=      0=      0=      0=       |19398852

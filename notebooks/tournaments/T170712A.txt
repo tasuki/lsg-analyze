@@ -1,0 +1,49 @@
+; TC[T170712A]
+; CL[A]
+; EV[Summer Go School Marathon]
+; PC[PL, Przystanek Alaska]
+; DT[2017-07-12,2017-07-21]
+; HA[h9]
+; KM[6.5]
+; TM[105]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Walaszewski Maksym      2d PL  Bydg  18   6    18   130  1020= 6+/b    7+/w    2-/w    4-/b    8+/b    5+/w    3+/w    9+/w     |15050673
+ 2 Stepnowski Pawel         1k PL  Wroc  18=  6    18   127  985  12+/w   3+/b    1+/b    0=      5-/w    4+/w    7+/b    6+/b     |14313134
+ 3 Wroclawski Stefan       1k PL  Soch  17   5    17   130  1011= 10+/b   2-/w    9+/b    5+/w    4-/b    8+/w    1-/b    7+/w     |13901569
+ 4 Frejlak Jan             1d PL  Wars  17   5    17   130  982= 5-/w    15+/b   7+/b    1+/w    3+/w    2-/b    8-/b    13+/w    |12801591
+ 5 Fraczak Pawel           1k PL  Wars  16   4    16   133  990  4+/b    11+/w   10+/w   3-/b    2+/b    1-/b    6-/w    8-/w     |14650768
+ 6 Skibinski Pawel         4k PL  Krak  16   5    16   126  970  1-/w    14+/b   11+/b   8-/w    9+/b    10+/w   5+/b    2-/w     |14813436
+ 7 Obrok Pawel             3k PL  Krak  15   3    15   130= 964= 15+/b   1-/b    4-/w    12-/w   11+/w   9+/b    2-/w    3-/b     |13686750
+ 8 Chojnacki Mateusz       1d PL  Wroc  16=  3    15   120  937  0=      0=      0=      6+/b    1-/w    3-/b    4+/w    5+/b     |14237498
+ 9 Palej Malgorzata        4k PL  Krak  14   3    14   124  951= 11-/b   13+/w   3-/w    10+/b   6-/w    7-/w    16+/b   1-/b     |13925032
+10 Straszewska Katarzyna   1k PL  Krak  15   2    14   117  914= 3-/w    12+/b   5-/b    9-/w    16+/b   6-/b    0=      0=       |13013968
+11 Mazurek Maciej          4k PL  Wroc  15   3    14   110  906= 9+/w    5-/b    6-/w    13+/b   7-/b    14+/w   0=      0=       |14786574
+12 Cieslak Karol           1d PL  Kosz  16   2    14   109= 867= 2-/b    10-/w   14+/b   7+/b    0=      0=      0=      0=       |14649228
+13 Cieslak Wojciech        6k PL  Kosz  14   5    14   108  828= 14+/w   9-/b    20+/b   11-/w   19+/w   16+/w   17+/b   4-/b     |15474052
+14 Kulczycki Marcin        5k PL  Krak  13   3    13   109  816= 13-/b   6-/w    12-/w   19+/b   17+/w   11-/b   18+/w   16-/w    |14350512
+15 Jelowicki Patryk        3k PL  Kosz  15   0    12   104  836= 7-/w    4-/w    0=      0=      0=      0=      0=      0=       |15886629
+16 Libront Dawid           4k PL  Bydg  14   1    12   100  810  0=      0=      0=      0=      10-/w   13-/b   9-/w    14+/b    |15698287
+17 Grab Maksymilian        8k PL  Lubl  12   5    12   90=  684= 20-/w   18+/w   25+/b   21+/b   14-/b   19+/w   13-/w   22+/b    |16598054
+18 Klimczak Mariusz        8k PL  Bydg  10   3    10   87=  627  25-/w   17-/b   21-/w   26+/b   23+/w   20+/b   14-/b   19-/b    |16586614
+19 Gutkowski Marek         6k PL  Wars  12   1    10   85   683  0=      0=      0=      14-/w   13-/b   17-/b   0=      18+/w    |12086173
+20 Rudnicki Janusz         8k PL  Pola  11   3    10   80   610= 17+/b   25+/w   13-/w   23-/b   21+/w   18-/w   0=      0=       |17598713
+21 Mazur Michal           10k PL  Bial  10   5    10   76   563= 27+/w   22+/b   18+/b   17-/w   20-/b   23+/w   24-/w   31+/w    |18050109
+22 Dudek Maria            10k PL  Krak  10   5    10   71   480= 28+/w   21-/w   23-/b   29+/b   24+/b   26+/w   31+/b   17-/w    |16501056
+23 Milkowski Jakub        10k PL  Zory  9=   4    9    68=  520  0=      27+/b   22+/w   20+/w   18-/b   21-/b   32+/w   24-/b    |17937370
+24 Tokarski Filip         10k PL  Wars  10=  4    9    59=  453  0=      0=      0=      27+/b   22-/w   28+/w   21+/b   23+/w    |17537652
+25 Bugaj Antoni            8k PL  Wars  10=  1    8    68   538  18+/b   20-/b   17-/w   0=      0=      0=      0=      0=       |17898078
+26 Mroczek Marcel         10k PL  Krak  9=   3    8    50   420= 0=      0=      0=      18-/w   27+/b   22-/b   34+/w   32+/b    |18374048
+27 Swietek Michal         10k PL  Krak  8    2    7    64   427= 21-/b   23-/w   28+/b   24-/w   26-/w   29+/b   0=      0=       |18262607
+28 Kolodziej Marta        12k PL  Wars  7    3    6    53=  348= 22-/b   32+/w   27-/w   30+/b   29+/w   24-/b   0=      0=       |17913258
+29 Chojnacki Piotr        11k PL  Bydg  7=   2    6    40   352= 0=      0=      0=      22-/w   28-/b   27-/w   36+/b   35+/w    |14225497
+30 Szustakiewicz Mikolaj  13k PL  Wroc  7=   4    6    24   248  0=      0=      0=      28-/w   31+/b   34+/w   35+/b   36+/w    |17486821
+31 Chlebowicz January     15k PL  Manc  5    5    5    42=  336  33+/w   35+/b   34+/w   32+/b   30-/w   36+/b   22-/w   21-/b    |17925908
+32 Kulhawik Adrian        20k PL  Bial  4    4    4    42   337= 34+/w   28-/b   36+/b   31-/w   35+/b   33+/w   23-/b   26-/w    |18425165
+33 Biernot Ewa            17k PL  Pozn  5    4    4    19   207= 31-/b   0+      35+/w   36+/w   34+/b   32-/b   0=      0=       |18398402
+34 Szkwarek Agnieszka     20k PL  Byst  3    3    3    36   281= 32-/b   36+/w   31-/b   35+/w   33-/w   30-/b   26-/b   0+       |18449376
+35 Dzienis Julita         20k PL  Bial  2    2    2    34   271= 36+/b   31-/w   33-/b   34-/b   32-/w   0+      30-/w   29-/b    |18449167
+36 Kepowicz Dariusz       20k PL  Wroc  1    1    1    34   271= 35-/w   34-/b   32-/w   33-/b   0+      31-/w   29-/w   30-/b    |18413351
+
+
+

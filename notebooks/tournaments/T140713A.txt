@@ -1,0 +1,40 @@
+; TC[T140713A]
+; CL[B]
+; EV[Summer Go School Entrance Tournament]
+; PC[PL, Przystanek Alaska]
+; DT[2014-07-13,2014-07-13]
+; HA[h9]
+; KM[6.5]
+; TM[60]
+; CM[ (submitted by kamyszyn)]
+;.
+ 1 Frejlak Stanislaw       4d PL  Wars  13   4    43   174= 10+/b   2+/b    3+/w    4+/w     |12837594
+ 2 Kay Andrew              4d UK  Bmhm  12   3    43   172  7+/b    1-/w    11+/b   3+/w     |14613720
+ 3 Majka Marcin            3d PL  Wroc  11   2    47   168  4+/w    6+/w    1-/b    2-/b     |14713413
+ 4 Woskresinski Wojciech   1d PL  Lask  11   2    45   171  3-/b    7+/w    5+/w    1-/b     |10974260
+ 5 Walaszewski Bruno       2k PL  Bydg  11   3    38   159= 13+/w   8+/b    4-/b    11+/w    |14950430
+ 6 Ciesla Kacper           2k PL  Krak  11   3    37   159= 18+/w   3-/b    7+/b    8+/w     |13749230
+ 7 Mex Gerd                1d DE  GOE   10   1    43   164= 2-/w    4-/b    6-/w    10+/b    |10401105
+ 8 Stepnowski Pawel         2k PL  Wroc  10   2    40=  146= 12+/b   5-/w    9+/w    6-/b     |14313134
+ 9 Bednarczyk Dariusz      3k PL  Pozn  9=   2    35   144= 0=      10+/w   8-/b    12+/w    |14037826
+10 Fraczak Pawel           2k PL  Wars  9    1    39=  154  1-/w    9-/b    15+/b   7-/w     |14650768
+11 Jelowicki Patryk        3k PL  Kosz  9    2    39   150= 15+/w   12+/b   2-/w    5-/b     |15886629
+12 Pater Lukasz            2k PL  Pozn  9    1    36=  149= 8-/w    11-/w   13+/b   9-/b     |13625920
+13 Blumberg Klaus          3k DE  BS    8    1    35   132  5-/b    15+/w   12-/w   14-/b    |10486124
+14 Bialozyt Adam           6k PL  Krak  8    4    24=  114  20+/w   21+/b   19+/b   13+/w    |16586053
+15 Schultze Achim          3k DE  GOE   7    0    33   137  11-/b   13-/b   10-/w   16-/b    |10474739
+16 Korczewski Lukasz       6k PL  Wars  7    3    23=  112  19-/b   20+/w   21+/b   15+/w    |16274049
+17 Hanke Antoni            6k PL  Wars  7    3    21   104  21-/w   23+/b   18+/b   19+/w    |16925095
+18 Palej Malgorzata        5k PL  Krak  6    1    29   114  6-/b    19-/w   17-/w   21+/w    |13925032
+19 Mistura Lukasz          6k PL  Wars  6    2    28   98   16+/w   18+/b   14-/w   17-/b    |15013251
+20 Mazurek Maciej          6k PL  Wars  5=   1    23   82=  14-/b   16-/b   24+/w   0=       |14786574
+21 Kulczycki Marcin        6k PL  Krak  5    1    28   98   17+/b   14-/w   16-/w   18-/b    |14350512
+22 Dobek Krystian          8k PL  Wars  5    3    15   66=  25-/b   26+/b   23+/w   24+/w    |14313970
+23 Szelag Mateusz          8k PL  Wroc  4    2    19   67=  24+/b   17-/w   22-/b   27+/w    |15886365
+24 Kaskow Wojciech         7k PL  Szcz  4    1    18=  72   23-/w   25+/w   20-/b   22-/b    |16201526
+25 Kwietniewska Daria      8k PL  Wroc  4    2    15   60=  22+/w   24-/b   27-/w   26+/b    |16062684
+26 Kucharski Piotr         9k PL  Wars  3    2    14   57   27+/b   22-/w   0+      25-/w    |16533825
+27 Domanski Filip          9k PL  Wars  3    2    13   61   26-/w   0+      25+/b   23-/b    |16949526
+
+
+

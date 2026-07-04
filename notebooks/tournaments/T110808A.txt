@@ -1,0 +1,29 @@
+; TC[T110808A]
+; CL[B]
+; EV[Polish Women Go Championship]
+; PC[PL, Przystanek Alaska]
+; DT[2011-08-08,2011-08-10]
+; HA[h9]
+; KM[6.5]
+; TM[67.5]
+; CM[ (submitted by kamyszyn)]
+;.
+; MPK
+ 1 Straszewska Katarzyna    2k PL  Krak  5    5    14   75   14+/w0  11+/b0  2+/w0   5+/w0   4+/b0    |13013968
+ 2 Sosnicka-Ciesla Anna     1d PL  Szcz  4    4    16   69   8+/w0   10+/w0  1-/b0   7+/b0   5+/w0    |13925769
+ 3 Mazurek Katarzyna        2k PL  Krak  4    4    12   71   13+/w0  12+/w0  10+/b0  4-/b0   6+/w0    |13862167
+ 4 Kaczorowska Malgorzata   1k PL  Wars  3    3    18   68   6+/w0   9+/w0   5-/b0   3+/w0   1-/w0    |13050543
+ 5 Kacprzyk Agnieszka       1d PL  Bebn  3    3    17   72   11+/w0  7+/w0   4+/w0   1-/b0   2-/b0    |13625524
+ 6 Kostrzewska Maria       11k PL  Gaev  3    3    14   63   4-/b0   15+/w0  13+/w0  8+/b0   3-/b0    |16262103
+ 7 Gogosz Dorota            6k PL  Choc  3    3    12   69   18+/w0  5-/b0   9+/b0   2-/w0   10+/b0   |12901581
+ 8 Skibinska Paulina       10k PL  Pozn  3    3    11   64   2-/b0   18+/w0  12+/w0  6-/w0   14+/b0   |15062674
+ 9 Chojnacka Marcelina      8k PL  Bydg  3    3    11   63   16+/w0  4-/b0   7-/w0   13+/b0  11+/w0   |14398802
+10 Noga Joanna              6k PL  Gdan  2    2    15   62   15+/w0  2-/b0   3-/w0   12+/b0  7-/w0    |13837967
+11 Bojar Olga              10k PL  Pozn  2    2    12   61   5-/b0   1-/w0   18+/b0  16+/w0  9-/b0    |13601214
+12 Biniecka Malgorzata     10k PL  Pabi  2    2    12   56   17+/w0  3-/b0   8-/b0   10-/w0  15+/b0   |13874894
+13 Cholewinska Beata       15k PL  xxx   2    2    12   54   3-/b0   16+/w0  6-/b0   9-/w0   17+/b0   |16225528
+14 Sowinska Grazyna        16k PL  Gdan  2    2    12   52   1-/b0   17+/w0  16+/b0  15-/b0  8-/w0    |14086237
+15 Czarniecka Ida          18k PL  Pozn  2    2    10   61   10-/b0  6-/b0   17+/b0  14+/w0  12-/w0   |15062278
+16 Kwietniewska Daria      17k PL  Wroc  1    1    9    57   9-/b0   13-/b0  14-/w0  11-/b0  18+/w0   |16062684
+17 Staciwa Monika          20k PL  HI    1    1    8    56   12-/b0  14-/b0  15-/w0  18+/b0  13-/w0   |16201284
+18 Wrobel Ilona            16k PL  Lubl  0    0    10   52   7-/b0   8-/b0   11-/w0  17-/w0  16-/b0   |16233371
