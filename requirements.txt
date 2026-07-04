@@ -5,6 +5,7 @@ jupyterlab==4.3.4
 requests==2.31.0
 beautifulsoup4==4.12.3
 lxml==6.0.0
+tqdm==4.66.5
 
 # analyze
 matplotlib==3.8.3
